@@ -1,0 +1,6 @@
+{
+  "num_images": 1000,
+  "random_seed": 42,
+  "model": "Qwen2.5-VL-7B",
+  "output_file": "./outputs/descriptions.json"
+}

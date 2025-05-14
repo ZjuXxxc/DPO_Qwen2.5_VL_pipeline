@@ -1,0 +1,4087 @@
+[
+  {
+    "image": "./images/train2017/000000408111.jpg",
+    "sentence": "The image captures an individual engaged in the sport of surfing.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000408111.jpg",
+    "sentence": "The surfer is positioned on a wave, leaning forward with arms extended for balance, demonstrating skill and control.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000408111.jpg",
+    "sentence": "The individual appears to be wearing a dark-colored wetsuit or rash guard, suitable attire for water sports.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000408111.jpg",
+    "sentence": "The surfboard beneath them is light blue, contrasting with the darker tones of the ocean.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000408111.jpg",
+    "sentence": "The wave itself is mid-break, with white foam forming at its crest, indicating movement and energy.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000408111.jpg",
+    "sentence": "The water surrounding the wave is a deep blue, suggesting depth and the power of the ocean.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000408111.jpg",
+    "sentence": "In the background, there is a rocky shoreline with patches of green vegetation, adding a natural element to the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000408111.jpg",
+    "sentence": "The lighting suggests that the photo was taken during dusk or dawn, as the sky has a dim, muted quality, which enhances the dramatic effect of the wave and the silhouette of the surfer against the darker horizon.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000408111.jpg",
+    "sentence": "The overall atmosphere conveys a sense of adventure and the thrill of riding nature's waves.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000071573.jpg",
+    "sentence": "The image captures an individual engaged in skateboarding on what appears to be a paved area adjacent to a grassy field.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000071573.jpg",
+    "sentence": "The person is mid-air, performing a trick that involves flipping the skateboard beneath their feet.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000071573.jpg",
+    "sentence": "They are wearing casual attire: a white T-shirt, blue jeans, and bright neon green sneakers.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000071573.jpg",
+    "sentence": "Their body posture suggests concentration and control as they execute the maneuver.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000071573.jpg",
+    "sentence": "The background reveals a well-maintained outdoor setting with a building featuring large windows and a brick facade.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000071573.jpg",
+    "sentence": "Trees without leaves are visible, indicating the season might be late autumn or winter.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000071573.jpg",
+    "sentence": "A bicycle is parked near the building, and a bench is situated on the grassy area to the right of the frame.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000071573.jpg",
+    "sentence": "The lighting suggests it is either early morning or late afternoon, given the long shadows cast by the trees and the warm, golden hue of the sunlight.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000071573.jpg",
+    "sentence": "The overall atmosphere conveys a sense of leisure and recreational activity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000016285.jpg",
+    "sentence": "The image depicts an individual engaged in skateboarding on a paved driveway.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000016285.jpg",
+    "sentence": "The person is wearing a white T-shirt and blue jeans, and their posture suggests they are in motion, possibly attempting to balance or maneuver the skateboard.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000016285.jpg",
+    "sentence": "The skateboard itself appears to be a standard longboard with a dark deck.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000016285.jpg",
+    "sentence": "In the background, there are two vehicles parked on the driveway: a black SUV on the left and a silver sedan on the right.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000016285.jpg",
+    "sentence": "The setting appears to be a residential area, as indicated by the presence of greenery and what looks like a garden or lawn to the right side of the image.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000016285.jpg",
+    "sentence": "The driveway is wet, suggesting recent rain, which could explain the reflective surface and the presence of water droplets scattered across it.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000016285.jpg",
+    "sentence": "The overall atmosphere of the image conveys a casual, everyday scene, likely capturing a moment of leisure or practice.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000367111.jpg",
+    "sentence": "The image depicts an aircraft on a runway at an airport.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000367111.jpg",
+    "sentence": "The airplane is a Boeing 737-800, identifiable by its size and design, painted in the livery of SunExpress, a Turkish airline.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000367111.jpg",
+    "sentence": "The fuselage is predominantly white with \"SunExpress\" written in blue letters along the side.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000367111.jpg",
+    "sentence": "The tail features a distinctive logo consisting of a stylized sun design in blue and red, complemented by a Turkish flag near the rear of the plane.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000367111.jpg",
+    "sentence": "The aircraft appears to be taxiing on the tarmac, as evidenced by its position relative to the airport's infrastructure.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000367111.jpg",
+    "sentence": "In the background, there is a large terminal building with glass windows, indicative of modern airport architecture.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000367111.jpg",
+    "sentence": "Several other aircraft can be seen parked or moving in the distance, suggesting a busy airport environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000367111.jpg",
+    "sentence": "The sky above is overcast, with a uniform gray hue, indicating cloudy weather conditions.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000367111.jpg",
+    "sentence": "The surrounding area includes grassy patches and paved surfaces typical of an airport setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000177319.jpg",
+    "sentence": "The image captures a bustling urban scene, likely in a European city, characterized by a blend of public transportation and pedestrian activity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000177319.jpg",
+    "sentence": "A prominent yellow bus, marked with route number \"73E,\" is seen on the right side of the frame, indicating its role as a public transit vehicle.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000177319.jpg",
+    "sentence": "The bus appears to be in motion, suggesting a typical day of commuting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000177319.jpg",
+    "sentence": "In the foreground, several individuals are engaged in cycling, utilizing what seems to be a designated bike lane.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000177319.jpg",
+    "sentence": "The cyclists are dispersed across the lane, some closer to the bus while others are further away, indicating a shared space where both buses and bicycles coexist.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000177319.jpg",
+    "sentence": "The cyclists appear focused on their journey, reflecting a sense of purpose and routine.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000177319.jpg",
+    "sentence": "The background features a mix of architectural elements, including historic buildings with distinct facades and spires, hinting at a rich cultural heritage.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000177319.jpg",
+    "sentence": "The presence of hanging streetlights adds to the urban atmosphere, while the clear sky suggests favorable weather conditions.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000157503.jpg",
+    "sentence": "The image depicts an individual riding a horse through what appears to be a rural setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000157503.jpg",
+    "sentence": "The person is dressed in a light blue plaid shirt and dark pants, with a headband on their head.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000157503.jpg",
+    "sentence": "They are holding onto a bundle of hay or grass that is secured to the horse's back.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000157503.jpg",
+    "sentence": "The horse, a chestnut color with a white blaze on its face, is equipped with a bridle and reins.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000157503.jpg",
+    "sentence": "The rider seems to be guiding the horse along a dirt path, possibly engaged in agricultural work or transporting the hay for livestock feeding.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000157503.jpg",
+    "sentence": "The background features lush greenery, suggesting a natural environment, likely a farm or countryside area.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000157503.jpg",
+    "sentence": "A wooden fence is visible on the left side of the image, indicating a boundary or enclosure.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000157503.jpg",
+    "sentence": "The overall atmosphere conveys a sense of tranquility and simplicity, characteristic of rural life.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000157503.jpg",
+    "sentence": "The individual appears focused on their task, demonstrating a sense of purpose and routine in their activity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000143416.jpg",
+    "sentence": "The image depicts a modern kitchen with a sleek and contemporary design.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000143416.jpg",
+    "sentence": "The dominant color scheme is white, which is reflected in the cabinetry and countertops, creating a clean and minimalist aesthetic.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000143416.jpg",
+    "sentence": "The cabinetry features a combination of upper and lower units, with the lower units having a series of drawers equipped with metallic handles that add a touch of elegance.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000143416.jpg",
+    "sentence": "The countertop appears to be a solid surface, likely quartz or a similar material, providing a smooth and durable workspace.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000143416.jpg",
+    "sentence": "A stainless steel range hood is mounted above the stovetop, indicating a functional cooking area.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000143416.jpg",
+    "sentence": "The stovetop itself is integrated into the cabinetry, blending seamlessly with the overall design.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000143416.jpg",
+    "sentence": "To the right of the stovetop, there is a built-in oven, also finished in stainless steel, which complements the other appliances.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000143416.jpg",
+    "sentence": "Adjacent to the oven, a refrigerator stands tall, featuring a modern design with a metallic finish that matches the other appliances.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000089949.jpg",
+    "sentence": "The image depicts a pastoral scene featuring several sheep grazing on a lush green hillside.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000089949.jpg",
+    "sentence": "In the foreground, a lamb stands prominently, facing the camera with its head slightly tilted, giving an impression of curiosity or attentiveness.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000089949.jpg",
+    "sentence": "The lamb's wool appears fluffy and white, contrasting with the darker patches on its legs.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000089949.jpg",
+    "sentence": "Behind it, to the left, lies an adult sheep resting on the grass, its posture relaxed and serene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000089949.jpg",
+    "sentence": "Further back, two more sheep can be seen grazing peacefully, their bodies partially obscured by the slope of the hill.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000089949.jpg",
+    "sentence": "The background is a gently sloping meadow dotted with small rocks and patches of grass, extending into the distance where the horizon meets a faint line of trees.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000089949.jpg",
+    "sentence": "The overall atmosphere of the image conveys tranquility and the simplicity of rural life.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000363489.jpg",
+    "sentence": "The image captures an outdoor scene featuring two dogs engaged in what appears to be a playful interaction.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000363489.jpg",
+    "sentence": "The setting is a dry, grassy field with a blurred background that suggests a natural environment, possibly during late autumn or early spring given the lack of greenery.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000363489.jpg",
+    "sentence": "In the foreground, there is a larger dog with a reddish-brown coat, which seems to be mid-action, possibly in the process of retrieving or playing with a green object, likely a toy.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000363489.jpg",
+    "sentence": "This dog's posture indicates movement and energy, with its mouth open and teeth visible, suggesting it might be biting or tugging at the object.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000363489.jpg",
+    "sentence": "The reddish-brown fur is well-groomed, and the dog's ears are slightly perked up, indicating alertness.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000363489.jpg",
+    "sentence": "Opposite this dog is a smaller, white dog with black spots on its back.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000363489.jpg",
+    "sentence": "This dog is positioned on all fours, facing the larger dog, and appears to be in motion as well, possibly running towards or away from the larger dog.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000065859.jpg",
+    "sentence": "The image depicts a tranquil urban scene at what appears to be a train station platform.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000065859.jpg",
+    "sentence": "On the left side of the frame, a passenger train is stationed, with its silver exterior featuring a red stripe running horizontally along the bottom.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000065859.jpg",
+    "sentence": "The train's windows reflect the muted light of an overcast sky, suggesting a cool or temperate climate.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000065859.jpg",
+    "sentence": "The platform itself is composed of reddish-brown bricks, bordered by a yellow safety line that runs parallel to the edge of the platform.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000065859.jpg",
+    "sentence": "A few individuals can be seen in the distance near the train, likely passengers either boarding or disembarking.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000065859.jpg",
+    "sentence": "To the right of the platform, there is a paved area where bicycles are parked against a tree.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000065859.jpg",
+    "sentence": "The tree, which has sparse green foliage, stands prominently in the foreground, casting a shadow on the ground.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000065859.jpg",
+    "sentence": "Behind it, a bus is visible, parked on the street, indicating the presence of public transportation services.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000065859.jpg",
+    "sentence": "The bus has a white body with blue and orange accents, typical of many transit systems.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000322615.jpg",
+    "sentence": "The image depicts a well-maintained bathroom with a luxurious and serene ambiance.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000322615.jpg",
+    "sentence": "The focal point is an oval-shaped bathtub situated against a wall, featuring a sleek design with a polished chrome faucet and handles.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000322615.jpg",
+    "sentence": "The tub is surrounded by a light beige tiled area that extends to the walls, creating a cohesive and elegant aesthetic.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000322615.jpg",
+    "sentence": "To the left of the bathtub, a white robe hangs neatly on a hook, suggesting a sense of comfort and relaxation.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000322615.jpg",
+    "sentence": "Adjacent to the robe, a small trash bin is placed on the floor, maintaining the cleanliness of the space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000322615.jpg",
+    "sentence": "A toilet is partially visible on the far left side of the frame, indicating the proximity of essential bathroom facilities.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000322615.jpg",
+    "sentence": "On the right side of the bathtub, two decorative silver containers are positioned symmetrically, adding a touch of sophistication to the room.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000322615.jpg",
+    "sentence": "These containers appear to be ornamental or functional, possibly for storing toiletries or decorative items.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000322615.jpg",
+    "sentence": "A folded towel rests near the edge of the tub, ready for use.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000366430.jpg",
+    "sentence": "The image captures a scene on a street where two individuals are riding a motorcycle.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000366430.jpg",
+    "sentence": "The rider, wearing an orange jacket and blue jeans, is seated at the front of the motorcycle, gripping the handlebars with both hands.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000366430.jpg",
+    "sentence": "The passenger, dressed in a black jacket and jeans, is seated behind the rider, holding onto the rider's waist for stability.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000366430.jpg",
+    "sentence": "Both individuals appear focused, possibly observing something ahead.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000366430.jpg",
+    "sentence": "In the background, there are several people standing near parked vehicles.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000366430.jpg",
+    "sentence": "Among them, one individual is wearing a purple outfit and appears to be engaged in conversation with another person who is dressed in casual attire.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000366430.jpg",
+    "sentence": "A man in a black shirt and khaki shorts stands with his arms crossed, observing the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000366430.jpg",
+    "sentence": "The setting includes a building with signage that reads \"Crockett Oil Co.\" indicating the location might be near or within a commercial area.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000366430.jpg",
+    "sentence": "The sky above is partly cloudy, suggesting it could be a cool day.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000366430.jpg",
+    "sentence": "The overall atmosphere seems calm and ordinary, typical of a public gathering or event.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000574675.jpg",
+    "sentence": "The image depicts an indoor setting where two individuals are engaged with laptops on a table.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000574675.jpg",
+    "sentence": "The person on the left is wearing glasses and a plaid shirt, while the individual on the right appears to be dressed in dark clothing.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000574675.jpg",
+    "sentence": "Both are focused on their respective screens.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000574675.jpg",
+    "sentence": "The laptop on the left displays a fiery background, possibly a desktop wallpaper or a video playing on the screen.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000574675.jpg",
+    "sentence": "The person on the left seems to be interacting with this device, perhaps adjusting settings or navigating through content.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000574675.jpg",
+    "sentence": "The laptop on the right shows a document or spreadsheet, suggesting that the individual might be working on data analysis or documentation.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000574675.jpg",
+    "sentence": "The table is cluttered with various items, including a mug, a pair of glasses, and what appears to be a power adapter or charger.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000574675.jpg",
+    "sentence": "There is also a red cylindrical object, possibly a container or a canister, near the right-hand side of the frame.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000308096.jpg",
+    "sentence": "The image depicts a restroom with a rustic aesthetic.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000308096.jpg",
+    "sentence": "The walls are clad in dark brick, giving the space an industrial feel.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000308096.jpg",
+    "sentence": "A rectangular mirror with a metallic frame is mounted on the wall above a simple, rectangular sink with a single faucet.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000308096.jpg",
+    "sentence": "The sink appears to be made of a light-colored material, possibly ceramic or stone, and is positioned against the brick backdrop.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000308096.jpg",
+    "sentence": "To the left of the sink, there is a wall-mounted light fixture with a curved arm and a bulb that emits a warm glow, casting a soft illumination over the area.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000308096.jpg",
+    "sentence": "Above the mirror, a small decorative item, possibly a bottle or container with a label, is affixed to the wall.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000308096.jpg",
+    "sentence": "Below the mirror, a sign is partially visible, though its text is not fully legible due to the angle and lighting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000308096.jpg",
+    "sentence": "The overall ambiance of the restroom is dimly lit, creating a moody and somewhat intimate atmosphere.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000055727.jpg",
+    "sentence": "The image depicts a modern bathroom with a clean and organized layout.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000055727.jpg",
+    "sentence": "The space is characterized by neutral tones, primarily beige and brown, which contribute to a warm and inviting atmosphere.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000055727.jpg",
+    "sentence": "On the left side of the image, there is a glass-enclosed shower area with a sliding door, indicating a contemporary design choice for easy access and maintenance.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000055727.jpg",
+    "sentence": "Adjacent to the shower, a toilet is positioned against the wall, maintaining a tidy arrangement.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000055727.jpg",
+    "sentence": "In the center of the room, a bathtub with a white towel draped over its edge is visible.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000055727.jpg",
+    "sentence": "The bathtub is integrated into the wall, suggesting a space-saving design that maximizes the use of the available floor space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000055727.jpg",
+    "sentence": "Above the bathtub, a window with a wooden frame allows natural light to filter into the room, enhancing the brightness and openness of the space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000055727.jpg",
+    "sentence": "To the right of the bathtub, a vanity unit with a large mirror above it is present.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437391.jpg",
+    "sentence": "The image depicts a section of a bathroom featuring a white bathtub with a built-in showerhead and faucet on the left side.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000437391.jpg",
+    "sentence": "The tub is positioned adjacent to a toilet, which has a closed lid covered with a pink textured mat.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437391.jpg",
+    "sentence": "The floor is tiled with a pattern of small black diamonds on a light background.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437391.jpg",
+    "sentence": "A striped bath mat in shades of pink, green, and yellow lies in front of the bathtub.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437391.jpg",
+    "sentence": "The walls surrounding the bathtub and toilet are painted in a warm orange hue.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437391.jpg",
+    "sentence": "The overall scene suggests a clean and functional bathroom space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437391.jpg",
+    "sentence": "There are no visible signs of activity or emotion within the frame.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000225041.jpg",
+    "sentence": "The image depicts a scene at a bus station where passengers are boarding a vintage DAF bus.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000225041.jpg",
+    "sentence": "The bus is maroon with cream-colored upper sections and features the registration plate \"AF 1945.\"",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000225041.jpg",
+    "sentence": "The destination sign on the front of the bus reads \"S.V.R.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000225041.jpg",
+    "sentence": "WERKGROEP BRABANT\" and \"SVR,\" indicating its route or service name.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000225041.jpg",
+    "sentence": "The bus appears to be part of a historical or heritage fleet, as suggested by its design and the presence of a group of people boarding it.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000225041.jpg",
+    "sentence": "Several individuals are visible near the bus.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000225041.jpg",
+    "sentence": "On the left side, three people are standing on the platform, seemingly waiting for their turn to board.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000225041.jpg",
+    "sentence": "One person, wearing a blue jacket, is actively reaching towards the open door of the bus, possibly to assist someone inside or to retrieve an item.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000225041.jpg",
+    "sentence": "Another individual, dressed in a dark coat, stands slightly behind, observing the process.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000225041.jpg",
+    "sentence": "A third person, partially obscured, is also present on the platform.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000020611.jpg",
+    "sentence": "The image captures a dynamic scene of three snowboarders navigating a slalom course on a snowy slope under clear blue skies.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000020611.jpg",
+    "sentence": "The snowboarder in the foreground, wearing a light blue jacket with the number \"88\" prominently displayed, is leaning into a turn, demonstrating skillful control and speed.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000020611.jpg",
+    "sentence": "This individual is also equipped with a white helmet and goggles for safety.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000020611.jpg",
+    "sentence": "In the middle ground, another snowboarder is visible, dressed in a purple and green outfit, indicating a different team or division.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000020611.jpg",
+    "sentence": "This snowboarder appears to be closely following the first, maintaining a similar posture as they maneuver through the course.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000020611.jpg",
+    "sentence": "The third snowboarder, positioned further back, is wearing a yellow jacket and a green helmet.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000020611.jpg",
+    "sentence": "They seem to be slightly behind the others but are still actively engaged in the competition.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000020611.jpg",
+    "sentence": "The slalom course is marked by red and blue flags, which serve as boundaries for the athletes.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000019391.jpg",
+    "sentence": "The image depicts a well-organized kitchen corner with a focus on functionality and aesthetic appeal.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000019391.jpg",
+    "sentence": "The kitchen features a white sink with a modern faucet, positioned beneath a large window that allows natural light to flood the space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000019391.jpg",
+    "sentence": "The window is adorned with a beige valance decorated with tassels, adding a touch of elegance.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000019391.jpg",
+    "sentence": "Below the sink, there is a black countertop that contrasts with the white cabinetry, which includes drawers and cabinets for storage.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000019391.jpg",
+    "sentence": "On the countertop, a coffee maker is placed near an electrical outlet, suggesting a practical arrangement for daily use.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000019391.jpg",
+    "sentence": "Adjacent to the coffee maker, a small white object, possibly a kitchen gadget or decor item, is visible.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000019391.jpg",
+    "sentence": "The backsplash consists of white subway tiles, complementing the overall color scheme of the room.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000019391.jpg",
+    "sentence": "To the right of the sink area, there is a glass-fronted cabinet displaying clear glassware, reflecting the light from the window and enhancing the brightness of the space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000060132.jpg",
+    "sentence": "The image depicts an individual outdoors, holding a black frisbee with a reflective surface.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000060132.jpg",
+    "sentence": "The frisbee features a skull design, which is prominently visible due to the reflective material.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000060132.jpg",
+    "sentence": "The person appears to be shirtless, suggesting a casual or recreational setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000060132.jpg",
+    "sentence": "The background includes a chain-link fence, greenery, and a building with multiple windows, indicating that the scene might be taking place in a park or a similar open area.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000060132.jpg",
+    "sentence": "The lighting suggests it is daytime, and the overall atmosphere seems relaxed and informal.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000060132.jpg",
+    "sentence": "There are no other individuals or significant objects in the immediate vicinity of the person holding the frisbee.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000140391.jpg",
+    "sentence": "The image depicts a display of baked goods arranged on a table, likely at a bakery or café setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000140391.jpg",
+    "sentence": "In the foreground, there is a glass dome covering a plate with a slice of yellow cake, possibly pound cake, placed on a white ceramic plate.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000140391.jpg",
+    "sentence": "The cake appears moist and fluffy, suggesting it might be freshly baked.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000140391.jpg",
+    "sentence": "To the left of the cake, another glass dome encloses a plate holding three muffins.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000140391.jpg",
+    "sentence": "These muffins have a golden-brown exterior and appear to contain visible chunks of fruit, possibly blueberries or cherries, indicating they are fruit-filled muffins.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000140391.jpg",
+    "sentence": "The muffins are neatly arranged, showcasing their texture and color.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000140391.jpg",
+    "sentence": "In the background, partially obscured by the cake and muffin domes, there is a small potted plant with green foliage, adding a touch of natural decoration to the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000140391.jpg",
+    "sentence": "To the right, a sign reads \"Cowboy Oatmeal Cranberry Chocolate Chip,\" suggesting that these are the types of cookies displayed in a jar nearby.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149364.jpg",
+    "sentence": "The image depicts a snowy urban street scene during what appears to be winter.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149364.jpg",
+    "sentence": "A Ryder moving truck is prominently featured in the foreground, parked on the side of the road.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149364.jpg",
+    "sentence": "The truck is yellow with the Ryder logo and contact information displayed on its side.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149364.jpg",
+    "sentence": "It is a large vehicle, suggesting it is used for commercial purposes, likely for moving or transporting goods.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149364.jpg",
+    "sentence": "The street is partially covered with snow, indicating recent snowfall or ongoing wintry conditions.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149364.jpg",
+    "sentence": "The road surface appears wet, possibly from melting snow or slush.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149364.jpg",
+    "sentence": "On the right side of the image, there is a fire hydrant painted orange, which stands out against the muted colors of the surroundings.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149364.jpg",
+    "sentence": "In the background, residential buildings can be seen, including a two-story house with a dark roof and a porch.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149364.jpg",
+    "sentence": "The trees lining the street are bare, devoid of leaves, consistent with the winter season.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149364.jpg",
+    "sentence": "The sky is overcast, contributing to the subdued lighting and overall cold atmosphere of the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000487064.jpg",
+    "sentence": "The image depicts an urban street scene featuring a shopping cart that has been creatively repurposed as a street sign.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000487064.jpg",
+    "sentence": "The cart is positioned on a metal pole, with its handle pointing upwards and its wheels facing outward.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000487064.jpg",
+    "sentence": "The cart's basket contains a brown rectangular sign with white text that reads \"Oregon WY 1200.\"",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000487064.jpg",
+    "sentence": "Another smaller sign attached to the cart indicates \"OR 1100.\"",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000487064.jpg",
+    "sentence": "The background reveals a residential area with trees displaying autumn foliage, suggesting the season.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000487064.jpg",
+    "sentence": "A parked vehicle is visible behind the shopping cart, and the street appears quiet with no pedestrians or moving vehicles.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000487064.jpg",
+    "sentence": "The overall atmosphere conveys a sense of whimsy and resourcefulness, as the shopping cart has been transformed into a functional street sign.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000430567.jpg",
+    "sentence": "The image depicts a domestic cat with a tabby coat pattern, sitting amidst a variety of plants and decorative items.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000430567.jpg",
+    "sentence": "The cat appears to be in a relaxed posture, with its head slightly lowered as if it is inspecting or smelling something on the ground.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000430567.jpg",
+    "sentence": "Its eyes are focused downward, suggesting curiosity or attentiveness.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000430567.jpg",
+    "sentence": "The setting includes a potted plant with long, slender green leaves, which serves as the primary backdrop for the cat.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000430567.jpg",
+    "sentence": "To the left of the plant, there are two small, whimsical mushrooms; one is red with white spots, and the other is pink with a similar spotted design.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000430567.jpg",
+    "sentence": "These mushrooms add a playful element to the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000430567.jpg",
+    "sentence": "In the background, a large cardboard box is visible, partially obscuring what seems to be a window with a curtain.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000430567.jpg",
+    "sentence": "The box has some printed text and symbols, indicating it might be packaging material.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000017273.jpg",
+    "sentence": "The image depicts an individual seated at a wooden desk, engaged in work or study on a laptop computer.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000017273.jpg",
+    "sentence": "The person is wearing glasses and a light-colored, checkered shirt.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000017273.jpg",
+    "sentence": "Their hands are positioned on the keyboard, suggesting active typing or navigation.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000017273.jpg",
+    "sentence": "On the desk, there are several items: a black computer mouse with a white scroll wheel to the left of the laptop, a newspaper titled \"Morgenbladet\" with visible text and images, a mobile phone to the right of the newspaper, and a small black device that appears to be a USB drive or similar peripheral.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000017273.jpg",
+    "sentence": "Additionally, there is a black charging cable connected to the laptop, indicating it may be in use or being charged.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000017273.jpg",
+    "sentence": "The overall setting suggests a workspace environment, possibly at home or in a casual office space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000017273.jpg",
+    "sentence": "The individual's posture and focus imply concentration and dedication to their task.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000017273.jpg",
+    "sentence": "The presence of the newspaper and mobile phone hints at multitasking or the integration of personal life into professional activities.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000454654.jpg",
+    "sentence": "The image depicts a zebra in a naturalistic setting, likely within an enclosure or zoo environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000454654.jpg",
+    "sentence": "The zebra is positioned in profile, facing to the right of the frame, with its head slightly lowered as if grazing or sniffing the ground.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000454654.jpg",
+    "sentence": "Its distinctive black-and-white striped coat is prominently displayed, with the stripes running vertically along its body and horizontally across its face.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000454654.jpg",
+    "sentence": "The mane, also striped, stands upright on the zebra's neck.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000454654.jpg",
+    "sentence": "The background features a wooden fence, suggesting that the zebra is contained within a designated area.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000454654.jpg",
+    "sentence": "The ground beneath the zebra appears to be a mix of dirt and sparse grass, indicating a naturalistic habitat designed to mimic the zebra's native savanna environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000454654.jpg",
+    "sentence": "The lighting in the image is natural, casting soft shadows and highlighting the texture of the zebra's coat and the surrounding environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000454654.jpg",
+    "sentence": "There are no visible signs of distress or agitation in the zebra's posture; it appears calm and undisturbed.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000127866.jpg",
+    "sentence": "The image depicts a collection of fresh produce arranged on a surface, likely for sale or display at a market.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000127866.jpg",
+    "sentence": "The foreground is dominated by a bunch of ripe bananas with some brown spots, indicating natural ripening.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000127866.jpg",
+    "sentence": "Adjacent to the bananas, there is a cluster of vibrant orange carrots, their smooth skin and uniform shape suggesting freshness.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000127866.jpg",
+    "sentence": "In the background, there are several green avocados, their dark green color and slightly bumpy texture characteristic of this fruit.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000127866.jpg",
+    "sentence": "Additionally, there appear to be some cucumbers or similar vegetables with a pale green hue, though they are partially obscured by the other items.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000127866.jpg",
+    "sentence": "The overall impression is one of abundance and variety, typical of a fresh produce market setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000127866.jpg",
+    "sentence": "There are no visible actions or emotions as the image captures a still life scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000349719.jpg",
+    "sentence": "The image depicts a workspace setup on a wooden coffee table.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000349719.jpg",
+    "sentence": "A silver laptop is open and placed on the left side of the table, with its screen displaying a webpage that appears to be an email or document interface.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000349719.jpg",
+    "sentence": "The laptop's keyboard is visible, and a white cable extends from it, suggesting it is connected to an external device or power source.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000349719.jpg",
+    "sentence": "On the right side of the table, there is a stack of three notebooks, neatly arranged one atop the other.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000349719.jpg",
+    "sentence": "The topmost notebook has a black cover, while the others have lighter-colored covers.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000349719.jpg",
+    "sentence": "Below the notebooks lies what seems to be a small notepad or additional paper, partially visible beneath them.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000349719.jpg",
+    "sentence": "The coffee table itself is situated on a wooden floor, which has a warm, natural finish.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000349719.jpg",
+    "sentence": "In the background, part of a room can be seen, featuring a light-colored wall and a piece of furniture that resembles a cabinet or storage unit.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000349719.jpg",
+    "sentence": "The overall setting suggests a casual yet organized environment, likely used for work or study purposes.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000401783.jpg",
+    "sentence": "The image captures an aerial view from an airplane window, showcasing a serene landscape below.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000401783.jpg",
+    "sentence": "The foreground prominently features the wing of the aircraft, which is angled slightly upward, indicating the plane's ascent or cruising altitude.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000401783.jpg",
+    "sentence": "The wing's metallic surface reflects the ambient light, adding a sense of depth to the scene.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000401783.jpg",
+    "sentence": "Below the wing, a vast expanse of rugged mountains stretches across the horizon.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000401783.jpg",
+    "sentence": "The mountains exhibit a mix of earthy tones, with some peaks appearing darker, possibly due to shadowing or vegetation, while others are lighter, suggesting snow or bare rock.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000401783.jpg",
+    "sentence": "The terrain is uneven, with valleys and ridges creating a textured appearance that adds dynamism to the landscape.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000401783.jpg",
+    "sentence": "In the distance, the mountains merge into a layer of clouds, which are fluffy and white, contrasting sharply with the blue sky above.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000401783.jpg",
+    "sentence": "The sky itself transitions from a soft pink near the horizon to a deeper blue higher up, hinting at either sunrise or sunset.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000339108.jpg",
+    "sentence": "The image captures a baseball player in mid-action on a field.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000339108.jpg",
+    "sentence": "The individual is wearing a camouflage-patterned jersey with \"RAIDER\" and the number \"17\" prominently displayed across the chest.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000339108.jpg",
+    "sentence": "The player also wears white pants, a black cap, and a glove on their left hand, indicating they are likely a right-handed pitcher or infielder.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000339108.jpg",
+    "sentence": "The player appears to be in the process of throwing a baseball, which is visible in the air slightly ahead of them.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000339108.jpg",
+    "sentence": "Their body posture suggests a dynamic motion, with one leg extended forward and the other bent at the knee, emphasizing the action of pitching.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000339108.jpg",
+    "sentence": "The background features a well-maintained baseball field with green grass and a dirt infield, along with advertisements on banners in the distance.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000339108.jpg",
+    "sentence": "The overall scene conveys a sense of athleticism and focus, characteristic of a competitive baseball game.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000464006.jpg",
+    "sentence": "The image depicts an urban street scene with a motorcycle prominently positioned in the foreground.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000464006.jpg",
+    "sentence": "The motorcycle appears to be a classic model, possibly a chopper or cruiser style, with a visible engine and exposed internal components.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000464006.jpg",
+    "sentence": "It is parked on its side on the asphalt, leaning against the curb.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000464006.jpg",
+    "sentence": "The bike's design suggests it may have been modified for aesthetic or performance purposes.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000464006.jpg",
+    "sentence": "In the background, there is a residential area with parked cars lining both sides of the street.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000464006.jpg",
+    "sentence": "The architecture includes multi-story buildings with storefronts at ground level, typical of a cityscape.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000464006.jpg",
+    "sentence": "Trees are planted along the sidewalks, adding greenery to the urban environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000464006.jpg",
+    "sentence": "A fire hydrant is visible near the center of the image, indicating the presence of emergency services infrastructure.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000464006.jpg",
+    "sentence": "The lighting in the photograph suggests it was taken during the daytime, with sunlight casting shadows that add depth to the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000464006.jpg",
+    "sentence": "The overall atmosphere conveys a sense of calmness and routine, characteristic of a quiet neighborhood street.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000196977.jpg",
+    "sentence": "The image depicts an exhibit featuring a toilet, illuminated by a warm light that casts a glow on its surface.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000196977.jpg",
+    "sentence": "The toilet is mounted on a platform with a black and white checkered pattern, suggesting a display or museum setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000196977.jpg",
+    "sentence": "To the right of the toilet, there is a sign with text titled \"A SIP OF CONFLICT,\" which appears to be part of an educational or interpretive display.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000196977.jpg",
+    "sentence": "The background includes dark, cylindrical structures, possibly part of the exhibit's design or structural elements.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000196977.jpg",
+    "sentence": "The overall ambiance is dimly lit, drawing attention to the toilet and the accompanying sign.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000196977.jpg",
+    "sentence": "There are no visible characters or actions taking place; the focus is entirely on the object and the informational content provided.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000196977.jpg",
+    "sentence": "The mood conveyed is one of curiosity and contemplation, likely intended to provoke thought about the topic mentioned on the sign.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000141586.jpg",
+    "sentence": "The image captures a moment during a baseball game.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000141586.jpg",
+    "sentence": "The batter, dressed in a white uniform with black accents, is in mid-swing, having just made contact with the ball.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000141586.jpg",
+    "sentence": "His posture suggests a powerful swing, indicating a strong attempt to hit the ball.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000141586.jpg",
+    "sentence": "The catcher, positioned behind the batter, is crouched low, wearing protective gear including a helmet, chest protector, and shin guards.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000141586.jpg",
+    "sentence": "The umpire stands directly behind the catcher, observing the play closely, ready to make a call on whether the ball was fair or foul.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000141586.jpg",
+    "sentence": "The field is well-maintained, with the dirt of the batter's box clearly visible.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000141586.jpg",
+    "sentence": "The grass surrounding the field appears lush and green.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000141586.jpg",
+    "sentence": "In the background, there is a dugout where players from both teams are seated, attentively watching the game.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000141586.jpg",
+    "sentence": "The dugout walls are adorned with advertisements, adding a commercial element to the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000208252.jpg",
+    "sentence": "The image captures a dynamic moment of a surfer in action.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000208252.jpg",
+    "sentence": "The individual is mid-air, having just launched off the crest of a wave, which is breaking behind them.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000208252.jpg",
+    "sentence": "The surfer's body is angled forward, with arms extended for balance, suggesting a sense of urgency and control.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000208252.jpg",
+    "sentence": "The person is wearing a long-sleeved top and wetsuit pants, indicating they are prepared for the cold water conditions typical of surfing.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000208252.jpg",
+    "sentence": "The wave itself is a significant element in the composition, with its white foam and spray creating a dramatic backdrop.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000208252.jpg",
+    "sentence": "The water appears turbulent, emphasizing the power and unpredictability of the ocean.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000208252.jpg",
+    "sentence": "The black-and-white filter enhances the contrast between the surfer and the wave, drawing attention to the motion and energy of the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000208252.jpg",
+    "sentence": "The absence of color focuses the viewer's attention on the textures and forms within the image, such as the splash of water and the contours of the surfer's body.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437806.jpg",
+    "sentence": "The image depicts a rural scene featuring a horse-drawn cart.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437806.jpg",
+    "sentence": "The horse, appearing to be a light brown or tan color, is harnessed to the cart and is in motion, suggesting it is being driven along a path.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437806.jpg",
+    "sentence": "The cart carries three individuals who appear to be traveling together.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437806.jpg",
+    "sentence": "The person at the front of the cart seems to be guiding the horse, while the two others are seated behind, possibly conversing or observing their surroundings.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437806.jpg",
+    "sentence": "The background reveals an open landscape with scattered trees and what appears to be a small structure, possibly a barn or shed, indicating a countryside setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437806.jpg",
+    "sentence": "The overall atmosphere of the image conveys a sense of tranquility and simplicity, characteristic of rural life.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000437806.jpg",
+    "sentence": "The lighting and coloration give the photograph a vintage or nostalgic quality, enhancing the pastoral ambiance.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179418.jpg",
+    "sentence": "The image depicts a vintage aircraft, specifically the Spirit of St. Louis, a monoplane designed by Charles Lindbergh for his transatlantic flight.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179418.jpg",
+    "sentence": "The aircraft is parked on a dirt airstrip, with its wings extending outward and slightly upward, characteristic of early aviation designs.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179418.jpg",
+    "sentence": "The fuselage is painted white with black lettering that reads \"Spirit of St. Louis\" prominently displayed on the side.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179418.jpg",
+    "sentence": "The aircraft features a single propeller at the front, which is partially covered by a fabric cowling.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179418.jpg",
+    "sentence": "The landing gear consists of two main wheels and a smaller wheel at the front, all of which appear to be made of wood or metal.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179418.jpg",
+    "sentence": "The tail section includes a rudder and a small horizontal stabilizer.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179418.jpg",
+    "sentence": "Two individuals are present near the aircraft.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179418.jpg",
+    "sentence": "One person, dressed in dark clothing, stands closer to the left side of the plane, appearing to inspect or interact with it.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179418.jpg",
+    "sentence": "Another individual, also in dark attire, is positioned further back, near the tail section of the aircraft.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000515785.jpg",
+    "sentence": "The image captures an individual engaged in an outdoor recreational activity within a park setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000515785.jpg",
+    "sentence": "The person is positioned on a grassy area, surrounded by lush greenery, including trees and shrubs that suggest a serene environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000515785.jpg",
+    "sentence": "The individual appears to be in motion, possibly throwing or catching a frisbee, as indicated by their posture and the blurred object in the air to the right of the frame.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000515785.jpg",
+    "sentence": "The attire consists of a light-colored t-shirt and dark pants, suitable for casual outdoor activities.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000515785.jpg",
+    "sentence": "The background features a pathway and additional vegetation, contributing to the tranquil atmosphere of the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000515785.jpg",
+    "sentence": "The overall mood conveyed is one of leisure and enjoyment of nature.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000558211.jpg",
+    "sentence": "The image captures an outdoor scene of two individuals engaged in a game of ultimate frisbee on a grassy field.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000558211.jpg",
+    "sentence": "The person on the left is wearing a bright yellow shirt and gray shorts, while the individual on the right is dressed in a black long-sleeve shirt and red shorts.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000558211.jpg",
+    "sentence": "Both appear to be in motion, with their bodies leaning forward as they focus intently on the white frisbee in mid-air between them.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000558211.jpg",
+    "sentence": "The person in the yellow shirt seems to be attempting to intercept or block the throw, while the person in the black shirt appears to be preparing to catch or evade the frisbee.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000558211.jpg",
+    "sentence": "The background reveals a fenced area with trees and some buildings, suggesting that this activity is taking place in a park or recreational field.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000558211.jpg",
+    "sentence": "The lighting indicates that it is either early morning or late afternoon, as the sun casts long shadows across the field.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000558211.jpg",
+    "sentence": "The overall atmosphere conveys a sense of casual competition and physical engagement, typical of recreational sports activities.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000004478.jpg",
+    "sentence": "The image captures an aircraft in the process of taking off from an airport runway.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000004478.jpg",
+    "sentence": "The airplane is a commercial jet, painted in the livery of All Nippon Airways (ANA), identifiable by its blue and white color scheme and the prominent ANA logo on the tail fin.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000004478.jpg",
+    "sentence": "The aircraft appears to be a wide-body model, likely a Boeing 787 Dreamliner, given its design features such as the engines mounted under the wings and the distinctive nose shape.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000004478.jpg",
+    "sentence": "The scene is set against a backdrop of a hazy sky, suggesting either early morning or late afternoon conditions.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000004478.jpg",
+    "sentence": "In the distance, there are several buildings that appear to be part of the airport infrastructure, along with some industrial structures and power lines.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000004478.jpg",
+    "sentence": "A crowd of people can be seen gathered behind a fence near the runway, possibly spectators or staff observing the takeoff.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000379882.jpg",
+    "sentence": "The image captures a moment during a baseball game.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000379882.jpg",
+    "sentence": "The scene is set on a well-maintained baseball field with a dirt infield and a grass outfield.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000379882.jpg",
+    "sentence": "In the foreground, a batter, dressed in a white uniform with black stripes, stands at home plate, poised to swing his bat.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000379882.jpg",
+    "sentence": "His stance suggests he is ready for the pitch.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000379882.jpg",
+    "sentence": "Behind him, the catcher, clad in protective gear including a helmet, chest protector, and shin guards, crouches low, prepared to catch the ball if it is not hit.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000379882.jpg",
+    "sentence": "To the left of the catcher, an umpire, wearing dark clothing and a protective mask, stands attentively, observing the play closely.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000379882.jpg",
+    "sentence": "The home plate area is clearly marked with chalk lines, and the dirt around the plate contrasts with the green grass of the outfield.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000379882.jpg",
+    "sentence": "The lighting indicates that this is likely an evening game under stadium lights.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000379882.jpg",
+    "sentence": "The overall atmosphere conveys the intensity and focus typical of a competitive baseball match.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000513242.jpg",
+    "sentence": "The image depicts a close-up of an individual wearing a light pink dress shirt paired with a patterned tie.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000513242.jpg",
+    "sentence": "The tie features a geometric design with a repeating motif of interconnected shapes, predominantly in shades of purple and white.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000513242.jpg",
+    "sentence": "The shirt is neatly buttoned, and the individual's left arm is partially visible, resting on what appears to be a chair or similar object.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000513242.jpg",
+    "sentence": "The background is slightly blurred but suggests an indoor setting, possibly an office or a meeting room, indicated by the presence of a chair and a table.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000513242.jpg",
+    "sentence": "The overall impression is one of professionalism and attention to detail in attire.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000513242.jpg",
+    "sentence": "There are no discernible actions or emotions conveyed in the image, as the focus is solely on the clothing and posture of the individual.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000102754.jpg",
+    "sentence": "The image depicts a well-maintained bathroom interior.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000102754.jpg",
+    "sentence": "The walls are painted in a light sage green color, creating a serene atmosphere.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000102754.jpg",
+    "sentence": "A rectangular window with a wooden frame is positioned on the left wall, allowing natural light to filter into the room.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000102754.jpg",
+    "sentence": "The window has a frosted glass panel, which diffuses the light and provides privacy.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000102754.jpg",
+    "sentence": "On the right side of the image, there is a large mirror with a dark brown frame, reflecting part of the room's interior.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000102754.jpg",
+    "sentence": "Above the mirror, a set of four silver sconces with frosted glass shades is mounted on the wall, providing illumination for the space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000102754.jpg",
+    "sentence": "Below the mirror, a modern sink with a chrome faucet is installed on a countertop that appears to be made of gray granite or a similar material.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000102754.jpg",
+    "sentence": "To the left of the sink, a toilet paper holder is mounted on the wall, holding a roll of white toilet paper.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000337044.jpg",
+    "sentence": "The image depicts an outdoor rural setting, likely a livestock fair or agricultural event.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000337044.jpg",
+    "sentence": "In the foreground, a person is interacting with a black dog, which appears to be assisting in herding sheep.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000337044.jpg",
+    "sentence": "The individual is wearing a dark jacket and jeans, and she is bending slightly towards the dog, possibly giving commands or engaging in a training exercise.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000337044.jpg",
+    "sentence": "The sheep are contained within a metal pen, and there are several other individuals in the background observing the activity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000337044.jpg",
+    "sentence": "These people are dressed in casual attire, some wearing hats, suggesting a warm climate.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000337044.jpg",
+    "sentence": "They appear to be spectators, possibly farmers or attendees of the event, as they are standing at a distance from the action.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000337044.jpg",
+    "sentence": "In the background, there are various structures, including buildings that resemble farmhouses or barns, and a red trailer with a wheel attached.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000337044.jpg",
+    "sentence": "The sky is clear, indicating good weather conditions.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000337044.jpg",
+    "sentence": "The overall atmosphere suggests a community gathering focused on agriculture and animal husbandry.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000224278.jpg",
+    "sentence": "The image depicts a savanna landscape characterized by sparse vegetation and scattered trees.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000224278.jpg",
+    "sentence": "The foreground features a group of giraffes standing amidst the dry grassland.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000224278.jpg",
+    "sentence": "Their long necks and distinctive coat patterns are clearly visible as they appear to be grazing or observing their surroundings.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000224278.jpg",
+    "sentence": "To the left of the giraffes, there is a zebra, identifiable by its black-and-white striped pattern, which is also grazing on the ground.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000224278.jpg",
+    "sentence": "The trees in the scene are mostly leafless, suggesting that the photo was taken during a dry season.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000224278.jpg",
+    "sentence": "The trees have a sparse canopy, with some branches extending outward, providing minimal shade.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000224278.jpg",
+    "sentence": "The background reveals a hazy horizon with a faint outline of hills or mountains, indicating a vast expanse of the savanna ecosystem.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000224278.jpg",
+    "sentence": "The overall atmosphere of the image conveys a sense of tranquility and natural beauty, typical of a serene wildlife habitat.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000224278.jpg",
+    "sentence": "There are no signs of human activity or artificial structures, reinforcing the untouched nature of this environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000273253.jpg",
+    "sentence": "The image depicts a display case containing a vintage baseball uniform and related items.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000273253.jpg",
+    "sentence": "The uniform is a cream-colored jersey with red piping along the edges and down the sleeves.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000273253.jpg",
+    "sentence": "Prominently featured on the front of the jersey is the word \"Cardinals\" in bold red letters, accompanied by an illustration of two red cardinals perched on a bat.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000273253.jpg",
+    "sentence": "The jersey appears to be from the 1950s, as indicated by the text below the display.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000273253.jpg",
+    "sentence": "Accompanying the jersey is a brown leather baseball glove, which is also part of the exhibit.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000273253.jpg",
+    "sentence": "The glove is positioned in front of the jersey, suggesting it was worn by a player during the era of the uniform.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000273253.jpg",
+    "sentence": "A wooden baseball bat, likely used by the players, is placed vertically behind the jersey, adding to the historical context of the display.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000273253.jpg",
+    "sentence": "Below the jersey and glove, there are two plaques providing information about the items.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179164.jpg",
+    "sentence": "The image depicts a scene at what appears to be a bus station or terminal.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179164.jpg",
+    "sentence": "In the foreground, two individuals are standing near a green and black double-decker bus with \"Oltursa\" written on its front.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179164.jpg",
+    "sentence": "The bus is parked, and its headlights are illuminated, suggesting it may be preparing for departure or has just arrived.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179164.jpg",
+    "sentence": "One person, wearing a dark blue jacket and carrying a blue backpack, is facing away from the camera, seemingly engaged in conversation or observation.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179164.jpg",
+    "sentence": "The other individual, dressed in a black T-shirt and also carrying a backpack, is partially turned towards the bus, possibly interacting with the first person.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179164.jpg",
+    "sentence": "In the background, there are additional people visible, some of whom appear to be waiting for their turn to board the bus.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000179164.jpg",
+    "sentence": "The setting includes a building with multiple stories and a red fence, indicating an urban environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179164.jpg",
+    "sentence": "The lighting suggests that the photo was taken during the daytime under clear skies, as evidenced by the bright sunlight and shadows cast on the ground.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000100006.jpg",
+    "sentence": "The image depicts a blue pickup truck with a racing livery.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000100006.jpg",
+    "sentence": "The vehicle is prominently branded with the Miller Lite logo, which is a well-known American beer brand.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000100006.jpg",
+    "sentence": "The number \"2\" is displayed on the side of the truck, suggesting it may be used for promotional or racing purposes.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000100006.jpg",
+    "sentence": "The truck features orange reflectors on its roof, likely for visibility during nighttime events.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000100006.jpg",
+    "sentence": "The bed of the truck is equipped with a metal rack, indicating it might be used for transporting equipment or supplies.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000100006.jpg",
+    "sentence": "The truck appears to be parked on a gravel surface, with part of another vehicle visible in the background.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000100006.jpg",
+    "sentence": "The overall condition of the truck suggests it is well-maintained and possibly used for professional or commercial activities related to the Miller Lite brand.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000100006.jpg",
+    "sentence": "There are no visible actions or emotions associated with the scene as it captures a static moment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000138367.jpg",
+    "sentence": "The image depicts a table set for a dessert display or a bake sale event.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000138367.jpg",
+    "sentence": "The table is covered with a blue checkered tablecloth and holds several items of baked goods, each accompanied by a small card with handwritten text.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000138367.jpg",
+    "sentence": "On the left side of the table, there is a white box labeled \"Coloured Cupcakes\" containing a selection of cupcakes.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000138367.jpg",
+    "sentence": "Adjacent to it, another white box labeled \"Baked Items\" contains an assortment of pastries, including what appear to be donuts and muffins.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000138367.jpg",
+    "sentence": "A plate with a variety of donuts is placed next to this box, showcasing their pink and brown hues.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000138367.jpg",
+    "sentence": "In the center of the table, there is a yellow plate holding a ring of cupcakes dusted with powdered sugar.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000138367.jpg",
+    "sentence": "To the right of this plate, another plate with a similar arrangement of cupcakes is visible.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000138367.jpg",
+    "sentence": "Both plates have small cards attached to them, presumably indicating the type of cupcakes or the name of the baker.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000382947.jpg",
+    "sentence": "The image depicts an individual engaged in a baseball activity on a grassy field.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000382947.jpg",
+    "sentence": "The person is dressed in athletic attire, which includes a white shirt with red lettering, light gray pants, and a red cap.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000382947.jpg",
+    "sentence": "They are positioned on the grass near the edge of a dirt area, suggesting they might be playing catch or practicing fielding.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000382947.jpg",
+    "sentence": "The individual appears to be in a crouched stance, holding a baseball glove in one hand, ready to catch or throw the ball.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000382947.jpg",
+    "sentence": "A baseball is visible in mid-air, slightly ahead of the person, indicating that it has been thrown towards them.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000382947.jpg",
+    "sentence": "The background consists of dense green foliage, likely trees, which suggests the setting is an outdoor recreational area, possibly a park or a sports field.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000382947.jpg",
+    "sentence": "The overall atmosphere conveys a sense of leisure and physical activity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000275793.jpg",
+    "sentence": "The image depicts a young individual engaged in the act of brushing their teeth in a well-lit bathroom.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000275793.jpg",
+    "sentence": "The person is standing at a white pedestal sink, which is equipped with a modern faucet and a soap dispenser.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000275793.jpg",
+    "sentence": "The individual is wearing a sleeveless top with a black and white pattern.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000275793.jpg",
+    "sentence": "Their hair is long and dark, tied back into a ponytail.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000275793.jpg",
+    "sentence": "The bathroom features beige tiled walls with decorative molding along the base of the wall.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000275793.jpg",
+    "sentence": "A mirror is mounted on the wall above the sink, reflecting part of the room.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000275793.jpg",
+    "sentence": "On the countertop, there are various personal care items, including a toothbrush, toothpaste, mouthwash, and a small handbag.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000275793.jpg",
+    "sentence": "Additionally, there is a small round magnifying mirror placed on the counter.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000275793.jpg",
+    "sentence": "To the right of the sink, a bathtub is visible, with a shower curtain partially drawn.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000275793.jpg",
+    "sentence": "The tub area includes a few plants, adding a touch of greenery to the space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000065588.jpg",
+    "sentence": "The image depicts an individual engaged in the act of eating a sandwich.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000065588.jpg",
+    "sentence": "The person is wearing glasses and a blue long-sleeved shirt with text that reads \"ANONYMOUS REBELLION.\"",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000065588.jpg",
+    "sentence": "The individual's hair appears to be dark and slightly disheveled, suggesting a casual or relaxed setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000065588.jpg",
+    "sentence": "The sandwich being consumed contains visible ingredients such as lettuce and possibly tomato, indicating it might be a vegetarian or vegan option.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000065588.jpg",
+    "sentence": "The background includes a patterned fabric, likely a bedspread, and a pillow, which suggests the setting could be a bedroom or a similar private space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000065588.jpg",
+    "sentence": "The overall atmosphere of the image conveys a sense of informality and comfort.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000059494.jpg",
+    "sentence": "The image is a black-and-white photograph capturing an urban scene at night.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000059494.jpg",
+    "sentence": "The focal point of the image is a wooden bench with ornate metal supports, positioned on a paved sidewalk.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000059494.jpg",
+    "sentence": "The bench appears to be empty, suggesting a quiet or deserted atmosphere.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000059494.jpg",
+    "sentence": "The surface of the pavement reflects the light from nearby street lamps, creating a subtle interplay of light and shadow.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000059494.jpg",
+    "sentence": "In the background, there are blurred figures of people walking along the sidewalk, indicating that the area is not completely devoid of activity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000059494.jpg",
+    "sentence": "The presence of trees and lampposts suggests that this is likely a public space, such as a park or a plaza, within a city.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000059494.jpg",
+    "sentence": "The lighting is dim, with the primary light sources being the street lamps, which cast a soft glow over the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000059494.jpg",
+    "sentence": "The overall mood of the image is calm and serene, evoking a sense of solitude and tranquility.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000059494.jpg",
+    "sentence": "There are no discernible expressions or emotions associated with the objects or the environment, as it is a still life composition.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000194550.jpg",
+    "sentence": "The image depicts three mannequins dressed in formal attire, positioned in front of a backdrop of hanging suits.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000194550.jpg",
+    "sentence": "The mannequin on the left is wearing a gray suit with a pink shirt and a patterned tie, complemented by a brown hat.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000194550.jpg",
+    "sentence": "The central figure is clad in a dark gray suit paired with a white shirt and a patterned tie, while the mannequin on the right dons a similar dark gray suit but with a darker shirt and a different patterned tie.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000194550.jpg",
+    "sentence": "Each mannequin has a distinct hairstyle: the left one has a short, neatly styled haircut, the center one sports a silver, metallic-looking hairstyle, and the right one has a blonde, textured hairstyle.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000194550.jpg",
+    "sentence": "The background features an array of suits displayed on hangers, suggesting that this scene takes place in a clothing store or a fashion showroom.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000194550.jpg",
+    "sentence": "There is no discernible action or emotion as the mannequins are inanimate figures.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000194550.jpg",
+    "sentence": "The overall setting conveys a professional and stylish atmosphere.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000062151.jpg",
+    "sentence": "The image depicts a rural landscape featuring a group of horses grazing near a body of water that appears to be a pond or small lake.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000062151.jpg",
+    "sentence": "The horses are positioned on a grassy bank adjacent to the water's edge, with some standing while others are bent down, likely feeding on the grass.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000062151.jpg",
+    "sentence": "The environment is serene, with a clear blue sky dotted with fluffy white clouds overhead.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000062151.jpg",
+    "sentence": "In the background, there is a line of leafless trees, suggesting it might be late autumn or winter.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000062151.jpg",
+    "sentence": "A wooden utility pole stands prominently in the foreground, with power lines extending across the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000062151.jpg",
+    "sentence": "The ground is a mix of green grass and patches of dry, brown earth, indicating a transition between seasons.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000062151.jpg",
+    "sentence": "The overall atmosphere is calm and pastoral, evoking a sense of tranquility and simplicity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000261520.jpg",
+    "sentence": "The image depicts an industrial or construction site under clear blue skies.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000261520.jpg",
+    "sentence": "The foreground features a paved area with white markings, likely indicating traffic or pedestrian pathways.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000261520.jpg",
+    "sentence": "On either side of this area, there are black metal fences with orange traffic cones attached to them, suggesting restricted access or ongoing work.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000261520.jpg",
+    "sentence": "A prominent feature is a large concrete structure in the background, possibly part of a tunnel or infrastructure project.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000261520.jpg",
+    "sentence": "Surrounding the site are tall electrical transmission towers, indicating the proximity to a power grid.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000261520.jpg",
+    "sentence": "The scene is devoid of people, giving it a sense of stillness and quiet.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000261520.jpg",
+    "sentence": "The bright sunlight casts distinct shadows, enhancing the clarity and depth of the image.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000261520.jpg",
+    "sentence": "The overall atmosphere suggests a controlled environment, likely due to safety protocols associated with construction or industrial operations.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000261520.jpg",
+    "sentence": "The presence of the Siemens logo on the traffic cones implies that the project may be related to their engineering or manufacturing capabilities.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000542725.jpg",
+    "sentence": "The image depicts a polar bear lying on its side in a snowy landscape.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000542725.jpg",
+    "sentence": "The bear's fur is a light beige color, blending with the surrounding snow, which appears to be undisturbed except for some patches of darker earth visible beneath the snow.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000542725.jpg",
+    "sentence": "The bear's head is slightly raised, and it seems to be resting or possibly observing its surroundings.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000542725.jpg",
+    "sentence": "Its eyes are open, suggesting alertness, but there is no indication of distress or aggression.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000542725.jpg",
+    "sentence": "The bear's front paws are tucked under its body, while its back legs are stretched out behind it.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000542725.jpg",
+    "sentence": "The background shows a body of water partially covered by snow, indicating a cold, wintry environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000542725.jpg",
+    "sentence": "The foreground includes some dry grasses that stand out against the white snow, adding texture to the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000542725.jpg",
+    "sentence": "The overall atmosphere of the image conveys a sense of tranquility and natural beauty, characteristic of a polar bear's habitat.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000270609.jpg",
+    "sentence": "The image captures a young child seated at a wooden table, engaged in an activity involving food.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000270609.jpg",
+    "sentence": "The child is wearing a green dress adorned with a pattern of white flowers and dots.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000270609.jpg",
+    "sentence": "The child's hair is light-colored and appears to be short.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000270609.jpg",
+    "sentence": "The child is holding a bright pink cup close to their mouth, seemingly drinking from it.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000270609.jpg",
+    "sentence": "The table in front of the child has several pieces of orange fruit, possibly peeled oranges or tangerines, scattered across its surface.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000270609.jpg",
+    "sentence": "The setting appears to be a kitchen, as indicated by the wooden cabinets and a refrigerator visible in the background.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000270609.jpg",
+    "sentence": "The lighting suggests an indoor environment, likely during the evening given the artificial light source.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000270609.jpg",
+    "sentence": "The overall atmosphere conveys a casual, domestic scene, with the child appearing focused on their activity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000270609.jpg",
+    "sentence": "The child's posture and the way they hold the cup suggest a sense of curiosity or enjoyment in the act of drinking.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000270609.jpg",
+    "sentence": "The scattered fruit pieces add a playful element to the scene, hinting at a snack or mealtime activity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000429290.jpg",
+    "sentence": "The image captures an outdoor recreational scene at what appears to be a park or open field.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000429290.jpg",
+    "sentence": "In the foreground, a man is in the midst of throwing a yellow frisbee with considerable force.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000429290.jpg",
+    "sentence": "He is wearing a light blue t-shirt with a circular logo on the front, paired with gray pants.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000429290.jpg",
+    "sentence": "His posture suggests he is fully engaged in the activity, with his body leaning forward and his arm extended behind him.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000429290.jpg",
+    "sentence": "In the background, two other individuals are visible.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000429290.jpg",
+    "sentence": "One person, dressed in red, stands near a picnic table, seemingly observing the action.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000429290.jpg",
+    "sentence": "Another individual, wearing a green top and sunglasses, is positioned further back, also appearing to watch the frisbee thrower.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000429290.jpg",
+    "sentence": "The picnic table is situated on a grassy area, surrounded by trees that provide a natural backdrop to the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000429290.jpg",
+    "sentence": "The ground is a mix of grass and dirt, indicating a casual, informal setting typical of a park environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000170208.jpg",
+    "sentence": "The image captures an individual engaged in surfing, a water sport that involves riding ocean waves on a surfboard.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000170208.jpg",
+    "sentence": "The person is wearing a wetsuit, which suggests they are prepared for cold water conditions.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000170208.jpg",
+    "sentence": "The wetsuit appears to be primarily black with red sleeves, indicating a two-tone design.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000170208.jpg",
+    "sentence": "The individual is positioned on a surfboard, which is partially submerged in the water, suggesting they are either paddling or attempting to catch a wave.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000170208.jpg",
+    "sentence": "The background reveals the dynamic nature of the ocean, with waves crashing and creating white foam.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000170208.jpg",
+    "sentence": "The water's surface is textured with ripples and splashes, emphasizing the movement and energy of the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000170208.jpg",
+    "sentence": "The individual's posture indicates focus and determination, as they lean forward, arms extended, likely in an effort to maintain balance and control over the surfboard amidst the turbulent waters.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000170208.jpg",
+    "sentence": "The overall atmosphere of the image conveys a sense of adventure and the thrill associated with surfing.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000514191.jpg",
+    "sentence": "The image captures a serene autumnal scene along a lakeside promenade.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000514191.jpg",
+    "sentence": "The foreground features a cyclist in motion, wearing a helmet and dark clothing, riding a bicycle on a paved path.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000514191.jpg",
+    "sentence": "The cyclist's posture suggests a relaxed pace, indicative of leisurely activity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000514191.jpg",
+    "sentence": "The midground is dominated by a grassy area scattered with fallen leaves, hinting at the season being fall.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000514191.jpg",
+    "sentence": "A few individuals are seated on benches, engaged in quiet conversation or simply enjoying the tranquil environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000514191.jpg",
+    "sentence": "The presence of these people conveys a sense of calm and relaxation.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000514191.jpg",
+    "sentence": "In the background, the lake stretches out, its surface reflecting the soft light of what appears to be late afternoon.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000514191.jpg",
+    "sentence": "The shoreline is lined with trees that display vibrant autumn foliage, ranging from deep greens to warm oranges and yellows.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000514191.jpg",
+    "sentence": "The trees cast long shadows onto the ground, adding depth and texture to the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000514191.jpg",
+    "sentence": "Further back, there are buildings visible, suggesting an urban setting adjacent to the park.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000027776.jpg",
+    "sentence": "The image depicts a serene breakfast setting outdoors, likely on a patio or balcony, as suggested by the presence of potted plants in the background.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000027776.jpg",
+    "sentence": "The focus is on two plates of food placed on a white table, with a glass of water positioned between them.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000027776.jpg",
+    "sentence": "In the foreground, there is a green plate holding two over-easy eggs garnished with a sprinkle of black pepper.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000027776.jpg",
+    "sentence": "The eggs appear to be cooked to a soft consistency, with the yolks intact and slightly runny.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000027776.jpg",
+    "sentence": "A fork rests on the plate, indicating that the meal is ready to be eaten.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000027776.jpg",
+    "sentence": "Behind this plate, another plate is visible, featuring a serving of sliced peaches.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000027776.jpg",
+    "sentence": "The peaches are cut into wedges and arranged neatly on a white plate with a decorative border.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000027776.jpg",
+    "sentence": "The vibrant orange color of the peaches contrasts nicely with the white plate, adding a fresh and appetizing appearance to the meal.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000027776.jpg",
+    "sentence": "In the background, a person is seated at the table, though their face is not visible.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000359098.jpg",
+    "sentence": "The image depicts an individual seated on a couch in a domestic setting, engaging in a playful or exaggerated action.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000359098.jpg",
+    "sentence": "The person is wearing a red knitted hat and glasses, and appears to be holding a large toothbrush close to their mouth as if brushing their teeth.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000359098.jpg",
+    "sentence": "Their expression suggests a humorous or exaggerated demeanor, possibly mimicking the act of brushing teeth with a large brush.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000359098.jpg",
+    "sentence": "The background reveals a living room environment, featuring a television displaying what seems to be a show or movie, a bookshelf filled with various items, and a partially visible door.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000359098.jpg",
+    "sentence": "The overall atmosphere conveys a casual and lighthearted moment within a home.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000203110.jpg",
+    "sentence": "The image depicts a vintage streetcar, painted in a vibrant orange hue, traveling along a dedicated track on a city street.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000203110.jpg",
+    "sentence": "The streetcar is marked with the number \"18:56\" prominently displayed on its front.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000203110.jpg",
+    "sentence": "It features a classic design with large windows along its sides, allowing passengers to enjoy the view as they travel.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000203110.jpg",
+    "sentence": "The car is equipped with overhead electric wires, indicating it is powered by an electric motor system.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000203110.jpg",
+    "sentence": "The streetcar is situated in an urban environment, with modern buildings and trees lining the street.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000203110.jpg",
+    "sentence": "A blue and white advertisement pillar stands adjacent to the streetcar, adding to the urban setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000203110.jpg",
+    "sentence": "In the background, there are other vehicles, including cars and bicycles, suggesting a bustling city atmosphere.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000203110.jpg",
+    "sentence": "The presence of pedestrians and the general activity in the area imply a lively community scene.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000203110.jpg",
+    "sentence": "The streetcar appears to be in motion, as suggested by the slight blur of the wheels and the dynamic positioning of the vehicle relative to the surrounding elements.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000469260.jpg",
+    "sentence": "The image depicts two individuals standing indoors with a large white cow.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000469260.jpg",
+    "sentence": "The setting appears to be a simple room with plain walls and a concrete floor.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000469260.jpg",
+    "sentence": "The cow is adorned with colorful decorations around its horns and neck, suggesting it may be prepared for a ceremonial or festive occasion.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000469260.jpg",
+    "sentence": "The individual on the left is dressed in a dark sweater with a geometric pattern and plaid pants.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000469260.jpg",
+    "sentence": "He is holding the rope attached to the cow's harness, indicating he might be responsible for leading or managing the animal.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000469260.jpg",
+    "sentence": "His posture suggests attentiveness and care towards the cow.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000469260.jpg",
+    "sentence": "The person on the right is wearing a dark jacket over a light-colored garment and a head covering, possibly a traditional headscarf.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000469260.jpg",
+    "sentence": "He is also holding the rope and appears to be interacting closely with the cow, perhaps guiding it or preparing it for an event.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000469260.jpg",
+    "sentence": "His expression seems calm and focused.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000469260.jpg",
+    "sentence": "The cow stands prominently in the center of the frame, its size and white coat drawing attention.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000080389.jpg",
+    "sentence": "The image captures a scene of a community event, likely a bike ride or a similar outdoor gathering, taking place on a residential street.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000080389.jpg",
+    "sentence": "In the foreground, a young child stands on the grassy side of the road, wearing a gray long-sleeved shirt with a graphic design on the front and blue jeans.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000080389.jpg",
+    "sentence": "The child appears to be observing the activity with curiosity or mild interest.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000080389.jpg",
+    "sentence": "In the background, several individuals are riding bicycles along the street.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000080389.jpg",
+    "sentence": "They are dressed in casual attire suitable for cycling, with some wearing bright safety vests.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000080389.jpg",
+    "sentence": "The cyclists seem to be moving at a leisurely pace, suggesting a recreational rather than competitive event.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000080389.jpg",
+    "sentence": "The street is lined with houses and trees, indicating a suburban setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000080389.jpg",
+    "sentence": "A \"Welcome to North St.\" sign is visible on the grass near the child, suggesting that this is the starting point or a significant location within the event's route.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000080389.jpg",
+    "sentence": "The atmosphere appears calm and relaxed, with no signs of urgency or distress among the participants.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000250708.jpg",
+    "sentence": "The image captures a serene rural scene dominated by a single Highland cow standing in a field.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000250708.jpg",
+    "sentence": "The cow is the focal point of the photograph, with its reddish-brown coat contrasting sharply against the monochromatic background.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000250708.jpg",
+    "sentence": "Its horns are prominent, curving slightly outward, and it appears to be gazing directly at the camera, giving an impression of calmness and curiosity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000250708.jpg",
+    "sentence": "The field is expansive and appears to be grassy, suggesting a peaceful, pastoral setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000250708.jpg",
+    "sentence": "In the background, there is a wooden fence that separates the field from what seems to be a wooded area.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000250708.jpg",
+    "sentence": "The trees are dark and leafy, indicating either a late autumn or early spring season.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000250708.jpg",
+    "sentence": "The overall atmosphere of the image is tranquil, with no other animals or people visible, emphasizing the solitude of the cow in this natural environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000250708.jpg",
+    "sentence": "The black-and-white tones of the surroundings highlight the vivid color of the cow, drawing attention to its presence and adding a dramatic effect to the composition.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000050507.jpg",
+    "sentence": "The image depicts a meticulously arranged diorama that appears to represent a domestic scene from a bygone era.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000050507.jpg",
+    "sentence": "The setting is a room with yellow walls adorned with various framed pictures and mirrors, suggesting a personal or family space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000050507.jpg",
+    "sentence": "The room is furnished with period-appropriate items, including a wooden dining table covered with a white tablecloth, upon which several objects such as plates, glasses, and a teapot are placed, indicating a meal setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000050507.jpg",
+    "sentence": "In the foreground, there is a life-sized mannequin dressed in a blue uniform with white stripes on the sleeves, possibly representing a scout or a similar organization, given the badge and sash worn around the waist.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000050507.jpg",
+    "sentence": "This figure stands upright, facing forward, as if observing the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000050507.jpg",
+    "sentence": "To the left of the mannequin, another smaller mannequin is seated in what looks like a baby carriage, adding a sense of domesticity and care to the tableau.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000460453.jpg",
+    "sentence": "The image depicts an interior view of a compact space, likely a cabin or a small room, featuring a set of bunk beds.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000460453.jpg",
+    "sentence": "The upper bunk is partially visible, with a blue blanket neatly spread over it.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000460453.jpg",
+    "sentence": "Resting on the blanket is a black bag with orange accents, and a clear plastic bottle with a blue label is placed beside it.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000460453.jpg",
+    "sentence": "A metal handrail, curved and sturdy, is attached to the side of the upper bunk for safety.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000460453.jpg",
+    "sentence": "Below the upper bunk, there appears to be another bed or seating area covered with a patterned fabric that includes circular designs.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000460453.jpg",
+    "sentence": "A towel hangs on a hook near this lower section, suggesting a functional and practical arrangement typical of a travel or transit setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000460453.jpg",
+    "sentence": "The overall lighting is dim, indicating either evening or nighttime conditions, and the environment seems quiet and undisturbed.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000460453.jpg",
+    "sentence": "There are no visible signs of activity or emotion within the frame, as the scene captures a static moment without any human presence or movement.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000299850.jpg",
+    "sentence": "The image is a diptych capturing two sequential moments of a tennis player in action on an outdoor court.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000299850.jpg",
+    "sentence": "The player, dressed in a maroon and white sports uniform, is executing a serve.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000299850.jpg",
+    "sentence": "Her body is angled forward, with her right arm extended upward, holding a red and white tennis racket, poised to strike the yellow tennis ball that is visible in mid-air above her head.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000299850.jpg",
+    "sentence": "Her left arm is bent at the elbow, providing balance as she leaps off the ground.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000299850.jpg",
+    "sentence": "In the background, there is a brick wall with a blue awning partially covering it.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000299850.jpg",
+    "sentence": "A person wearing a dark shirt and maroon pants stands near the wall, observing the game.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000299850.jpg",
+    "sentence": "The court surface is a vibrant blue, and various items such as bags and equipment are scattered along the sidelines.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000299850.jpg",
+    "sentence": "The lighting suggests a sunny day, casting distinct shadows of the player and the racket onto the court.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000299850.jpg",
+    "sentence": "The overall atmosphere conveys the intensity and focus required for competitive tennis play.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000530059.jpg",
+    "sentence": "The image captures a dynamic scene of a dog in mid-air, seemingly engaged in an energetic activity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000530059.jpg",
+    "sentence": "The dog, with a sleek black coat and a reddish-brown patch on its back, is captured in a moment of agility and focus.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000530059.jpg",
+    "sentence": "It appears to be leaping towards a yellow frisbee, which it is attempting to catch with its mouth.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000530059.jpg",
+    "sentence": "The dog's body is stretched out, with its front legs extended upwards and its hind legs bent, showcasing a display of athleticism.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000530059.jpg",
+    "sentence": "The setting is an outdoor environment, likely a park or a grassy area, characterized by lush green grass dotted with small yellow flowers.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000530059.jpg",
+    "sentence": "In the background, there are trees with dense foliage, suggesting a serene and natural habitat.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000530059.jpg",
+    "sentence": "The lighting indicates that the photo was taken during the daytime under natural sunlight, which enhances the vibrancy of the colors in the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000530059.jpg",
+    "sentence": "The dog's posture and the motion blur around its legs suggest a swift movement, emphasizing the action and energy of the moment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000414112.jpg",
+    "sentence": "The image depicts a medium-sized dog lying on a bed in what appears to be a bedroom.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000414112.jpg",
+    "sentence": "The dog has a light brown coat with darker markings around its eyes and ears, which are floppy.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000414112.jpg",
+    "sentence": "It is wearing a red collar with a bone-shaped tag attached.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000414112.jpg",
+    "sentence": "The dog's expression is neutral, and it is looking slightly upwards, giving an impression of attentiveness or curiosity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000414112.jpg",
+    "sentence": "The room features a wooden wardrobe on the left side and a wooden dresser on the right.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000414112.jpg",
+    "sentence": "A blue door is visible in the background, partially open, allowing some light to filter into the room.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000414112.jpg",
+    "sentence": "The walls are painted a light beige color, and the ceiling is white.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000414112.jpg",
+    "sentence": "The bed on which the dog is lying has white sheets, and there are some items scattered on it, including what looks like a piece of clothing or fabric.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000414112.jpg",
+    "sentence": "The overall atmosphere of the image suggests a domestic setting, likely a home environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000414112.jpg",
+    "sentence": "There are no other animals or people present in the image.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000419759.jpg",
+    "sentence": "The image depicts an aircraft parked on an airport tarmac.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000419759.jpg",
+    "sentence": "The airplane is a regional jet, identifiable by its size and design, with a white fuselage and a dark blue tail featuring a yellow logo that includes a stylized bird in flight.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000419759.jpg",
+    "sentence": "The aircraft's registration number, \"D-AVRN,\" is visible near the front landing gear.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000419759.jpg",
+    "sentence": "The livery of the aircraft indicates it belongs to a regional airline, as suggested by the text \"ansa Regional\" on the side of the fuselage.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000419759.jpg",
+    "sentence": "The setting appears to be an airport terminal area, with various ground service equipment and personnel visible around the aircraft.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000419759.jpg",
+    "sentence": "A small group of individuals can be seen near the nose wheel, likely performing maintenance or inspection tasks.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000419759.jpg",
+    "sentence": "In the background, there are industrial-style buildings, one of which has a distinctive pointed roof structure, possibly indicating a church or other religious building adjacent to the airport facilities.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000419759.jpg",
+    "sentence": "The sky above is overcast, with thick clouds suggesting a cloudy day.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000570001.jpg",
+    "sentence": "The image depicts an aircraft on a runway at an airport under overcast skies.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000570001.jpg",
+    "sentence": "The airplane is a commercial jet with the livery of Delta Air Lines, identifiable by the red and blue tail design and the \"Delta\" logo prominently displayed on the fuselage.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000570001.jpg",
+    "sentence": "The aircraft appears to be a wide-body model, likely a Boeing 767 or similar, given its size and shape.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000570001.jpg",
+    "sentence": "It is positioned on the tarmac, with its landing gear extended, suggesting it has either just landed or is preparing for takeoff.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000570001.jpg",
+    "sentence": "In the background, there are other aircraft parked at gates, indicating this is a busy airport.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000570001.jpg",
+    "sentence": "The terminal buildings are visible, characterized by their white and gray structures, which blend into the cloudy sky.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000570001.jpg",
+    "sentence": "The foreground includes a grassy area with two signs that read \"NO STOPPING,\" likely serving as a warning to vehicles not to obstruct the runway or taxiway.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000552919.jpg",
+    "sentence": "The image depicts an interior view of a bathroom that appears to be in a state of disrepair or undergoing renovation.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000552919.jpg",
+    "sentence": "The walls are clad with vertical wooden panels, which show signs of wear and tear, suggesting age or neglect.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000552919.jpg",
+    "sentence": "A window is positioned above a toilet, framed by wooden trim that matches the wall paneling.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000552919.jpg",
+    "sentence": "The window is partially open, allowing natural light to enter the room, which illuminates the space unevenly due to the darkened doorway on the left side.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000552919.jpg",
+    "sentence": "The bathtub, located centrally in the image, is white but heavily stained with rust and grime, indicating it has not been cleaned recently.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000552919.jpg",
+    "sentence": "The faucet is metallic and appears functional, though its condition is not clearly discernible from the image.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000552919.jpg",
+    "sentence": "The floor is visible beneath the bathtub and toilet, showing a worn surface that could be concrete or tile, further contributing to the overall impression of a neglected space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000552919.jpg",
+    "sentence": "No individuals are present in the image, and there are no visible actions taking place.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000260774.jpg",
+    "sentence": "The image depicts a domestic scene featuring a dog lying on its side on a carpeted floor.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000260774.jpg",
+    "sentence": "The dog appears to be a medium-sized breed with a dark brown coat, possibly a Labrador Retriever or a similar breed.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000260774.jpg",
+    "sentence": "It is positioned near the edge of a bed, which has a white sheet and some items placed on it, including what seems to be a red jacket and other clothing.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000260774.jpg",
+    "sentence": "Underneath the bed, there is a shelf holding an assortment of books and what appear to be video games or DVDs, suggesting a personal collection.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000260774.jpg",
+    "sentence": "The books are arranged vertically, and the DVDs or games are lined up horizontally.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000260774.jpg",
+    "sentence": "The shelf itself is black and appears to be part of a storage unit.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000260774.jpg",
+    "sentence": "The floor around the bed is cluttered with various items, including clothes and what looks like a black bag or suitcase.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000260774.jpg",
+    "sentence": "There is also a box labeled \"SHOP\" visible in the background, indicating that this might be a storage area or a room used for organizing belongings.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000444568.jpg",
+    "sentence": "The image depicts a young child engaged with a computer setup.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000444568.jpg",
+    "sentence": "The child is wearing headphones and appears to be focused on the screen of a laptop.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000444568.jpg",
+    "sentence": "The child's hands are positioned on a computer mouse, suggesting active interaction with the device.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000444568.jpg",
+    "sentence": "The child is dressed in a long-sleeved shirt with a green and brown pattern.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000444568.jpg",
+    "sentence": "The setting seems to be an indoor environment, possibly a library or a classroom, as indicated by the presence of bookshelves in the background.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000444568.jpg",
+    "sentence": "The child's posture and expression convey concentration and curiosity, indicating engagement with the activity at hand.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000444568.jpg",
+    "sentence": "The overall scene suggests a learning or recreational activity involving technology.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000123800.jpg",
+    "sentence": "The image captures a serene maritime scene featuring several sailing vessels on calm waters under a clear blue sky.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000123800.jpg",
+    "sentence": "In the foreground, a small sailboat with a single mast is prominently positioned, appearing to be in motion as it leaves a trail of ripples behind it.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000123800.jpg",
+    "sentence": "To its right, a larger vessel with multiple sails is also sailing, showcasing a traditional design with a prominent mainmast and foremast.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000123800.jpg",
+    "sentence": "The sails are unfurled, suggesting favorable wind conditions.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000123800.jpg",
+    "sentence": "In the midground, a group of tall ships with multiple masts can be seen.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000123800.jpg",
+    "sentence": "These vessels are likely part of a historical or ceremonial fleet, given their size and intricate rigging.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000123800.jpg",
+    "sentence": "They are spaced apart, indicating they might be participating in a parade or regatta.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000123800.jpg",
+    "sentence": "The water around them is relatively calm, reflecting the vessels and the sky above.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000123800.jpg",
+    "sentence": "The background features a distant shoreline with faint outlines of land and structures, possibly indicating a coastal town or harbor.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000341448.jpg",
+    "sentence": "The image is a black-and-white photograph capturing an outdoor scene, likely at a school or community center, given the presence of a building with large windows in the background.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000341448.jpg",
+    "sentence": "The focus is on a young girl standing confidently on a skateboard.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000341448.jpg",
+    "sentence": "She is wearing a helmet for safety, a dark-colored t-shirt, and patterned pants.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000341448.jpg",
+    "sentence": "Her posture suggests she is either preparing to ride or has just stopped.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000341448.jpg",
+    "sentence": "The skateboard is positioned horizontally beneath her feet.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000341448.jpg",
+    "sentence": "In the background, several other children can be seen engaging in various activities.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000341448.jpg",
+    "sentence": "Some appear to be playing with bicycles, while others seem to be interacting with each other.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000341448.jpg",
+    "sentence": "The setting appears to be a sunny day, as indicated by the shadows cast on the ground, which are sharp and distinct, suggesting that the sun is high in the sky.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000341448.jpg",
+    "sentence": "The overall atmosphere of the image conveys a sense of youthful energy and activity, with the central figure of the girl on the skateboard embodying a sense of adventure and independence.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000044579.jpg",
+    "sentence": "The image depicts an individual engaged in a phone conversation while holding their head with both hands.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000044579.jpg",
+    "sentence": "The person appears to be male, with dark, slightly disheveled hair that is partially covering his forehead.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000044579.jpg",
+    "sentence": "He is wearing sunglasses perched atop his head, suggesting a casual or relaxed demeanor.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000044579.jpg",
+    "sentence": "The individual's expression is not fully visible due to the angle of the photograph, but the posture and hand placement might indicate stress, frustration, or deep thought.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000044579.jpg",
+    "sentence": "The person is holding a silver mobile phone to his ear with one hand, which is raised to his head.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000044579.jpg",
+    "sentence": "His other hand is also raised, resting on his head, possibly indicating a state of exasperation or intense concentration.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000044579.jpg",
+    "sentence": "The background is blurred, but hints of outdoor elements such as foliage and a structure can be discerned, suggesting the photo was taken outdoors during daylight hours.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000044579.jpg",
+    "sentence": "The overall impression is one of a moment captured in a candid, unposed setting, possibly during a personal or professional interaction.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000029304.jpg",
+    "sentence": "The image depicts two uncooked pizzas placed on a stovetop.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000029304.jpg",
+    "sentence": "The pizza on the left is topped with a variety of ingredients, including sliced mushrooms, diced tomatoes, shredded cheese, and possibly some herbs or spices.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000029304.jpg",
+    "sentence": "The pizza on the right features a different topping combination, consisting of fresh spinach leaves, shredded cheese, and what appears to be slices of chicken or another protein.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000029304.jpg",
+    "sentence": "Both pizzas have a golden-brown crust.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000029304.jpg",
+    "sentence": "In the background, there is a black frying pan resting on the stovetop, suggesting that cooking activities may have recently taken place.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000029304.jpg",
+    "sentence": "A can of soda is visible near the edge of the stove, along with a garlic bulb and a knife, indicating that the kitchen is actively being used for meal preparation.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000029304.jpg",
+    "sentence": "The overall scene suggests a casual home cooking environment, with no specific emotional context provided by the image itself.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000343942.jpg",
+    "sentence": "The image captures an aircraft in mid-flight, descending towards a body of water.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000343942.jpg",
+    "sentence": "The plane is a twin-engine turboprop, identifiable by its propellers and the distinct shape of its wings.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000343942.jpg",
+    "sentence": "It appears to be a regional jet, likely used for short-haul flights, given its size and design.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000343942.jpg",
+    "sentence": "The livery on the tail suggests it belongs to a specific airline.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000343942.jpg",
+    "sentence": "The background features a serene landscape with lush green trees lining the shore of the water.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000343942.jpg",
+    "sentence": "The sky above is partly cloudy, with soft, diffused light suggesting either early morning or late afternoon.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000343942.jpg",
+    "sentence": "The water below is calm, reflecting the tranquility of the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000343942.jpg",
+    "sentence": "There are a few buoys visible in the water, possibly indicating a designated area or a navigation route.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000343942.jpg",
+    "sentence": "No human figures or significant activities are discernible in the image, focusing instead on the natural and man-made elements present.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000343942.jpg",
+    "sentence": "The overall mood conveyed is one of peacefulness and routine, as the aircraft prepares to land in a calm environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000146436.jpg",
+    "sentence": "The image depicts an individual dressed in a vibrant red blazer over a black shirt, standing indoors.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000146436.jpg",
+    "sentence": "The person is holding a smartphone in their right hand and appears to be focused on it, possibly reading or typing.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000146436.jpg",
+    "sentence": "In their left hand, they hold a white rectangular object that resembles a small electronic device or a case.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000146436.jpg",
+    "sentence": "The individual is wearing a lanyard with an orange strap around their neck, which suggests they might be at a conference or event where such identification is required.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000146436.jpg",
+    "sentence": "In the background, there are blurred figures of other individuals, indicating a social or professional setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000146436.jpg",
+    "sentence": "The environment appears to be well-lit, likely due to indoor lighting, and the overall atmosphere seems casual yet engaged.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000146436.jpg",
+    "sentence": "The individual's posture and focus suggest concentration or interest in the activity they are performing on their phone.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000389644.jpg",
+    "sentence": "The image depicts an outdoor social gathering under a shaded area adorned with colorful streamers.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000389644.jpg",
+    "sentence": "A group of individuals is engaged in various activities around a table laden with food and beverages.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000389644.jpg",
+    "sentence": "The setting appears to be casual and festive, possibly a community event or a small celebration.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000389644.jpg",
+    "sentence": "In the foreground, a woman in a black dress with a floral pattern is holding a drink and appears to be in conversation with another individual.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000389644.jpg",
+    "sentence": "She seems relaxed and engaged in the interaction.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000389644.jpg",
+    "sentence": "To her right, a man wearing a blue sports jersey with the number \"91\" is also holding a drink and appears to be enjoying the atmosphere.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000389644.jpg",
+    "sentence": "His posture suggests he is casually leaning on the table, contributing to the informal vibe of the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000389644.jpg",
+    "sentence": "On the right side of the image, two men are standing near the entrance of a building.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000389644.jpg",
+    "sentence": "One is dressed in a striped shirt, while the other wears a dark-colored outfit.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000389644.jpg",
+    "sentence": "They seem to be either preparing for something or engaging in a light-hearted exchange.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000186614.jpg",
+    "sentence": "The image depicts a kitchen setting with a small wooden table placed on a tiled floor.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000186614.jpg",
+    "sentence": "On top of the table is a white microwave oven, which appears to be a Sharp model, and below it, a silver toaster oven.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000186614.jpg",
+    "sentence": "The microwave is positioned upright, while the toaster oven is lying horizontally beneath it.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000186614.jpg",
+    "sentence": "A green cable is visible, running from the microwave to an unseen outlet, suggesting that the microwave might be plugged in for operation.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000186614.jpg",
+    "sentence": "To the left of the table, there is a section of a kitchen counter with a light-colored surface and yellow drawers.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000186614.jpg",
+    "sentence": "A mug with a colorful design is placed on the counter near the microwave.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000186614.jpg",
+    "sentence": "The background includes a glimpse of a tiled wall and what seems to be part of a sink area, indicating this is a functional kitchen space.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000186614.jpg",
+    "sentence": "The overall scene suggests a casual domestic environment, possibly during meal preparation or cleanup.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000186614.jpg",
+    "sentence": "There are no visible characters or actions taking place; the focus is on the appliances and their arrangement within the kitchen.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000051119.jpg",
+    "sentence": "The image depicts a scene of significant destruction, specifically focusing on a bus that has been severely damaged by fire.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000051119.jpg",
+    "sentence": "The vehicle is situated on a street, with its front end facing the camera.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000051119.jpg",
+    "sentence": "The bus's body is charred and blackened, indicating intense heat exposure.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000051119.jpg",
+    "sentence": "The windshield and side windows are shattered, and the interior appears to be completely destroyed, with no visible occupants or passengers.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000051119.jpg",
+    "sentence": "The license plate reads \"OAX 500M.\"",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000051119.jpg",
+    "sentence": "Surrounding the bus, there is debris scattered across the pavement, suggesting that the fire may have been contained within the vehicle itself.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000051119.jpg",
+    "sentence": "The bus is parked near a residential building, which features a brick facade and a balcony.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000051119.jpg",
+    "sentence": "The area around the bus shows signs of disruption, with broken glass and other materials strewn about.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000051119.jpg",
+    "sentence": "In the background, several cars are parked along the street, and trees can be seen lining the road, providing a contrast to the destruction in the foreground.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000548391.jpg",
+    "sentence": "The image captures an individual engaged in kite flying by the sea.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000548391.jpg",
+    "sentence": "The person is seen from behind, wearing a blue hooded garment that appears to be a bathrobe, suggesting they may have just emerged from a swim or shower.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000548391.jpg",
+    "sentence": "They are also wearing a light-colored baseball cap, which shields their face from the sun.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000548391.jpg",
+    "sentence": "The individual's right arm is extended upwards, holding onto the string of a red and black kite that is soaring high against the backdrop of a clear sky.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000548391.jpg",
+    "sentence": "The ocean waves are visible in the background, indicating a breezy day ideal for kite flying.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000548391.jpg",
+    "sentence": "The overall scene conveys a sense of leisure and enjoyment, with the individual appearing focused on controlling the kite while basking in the outdoor activity.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149440.jpg",
+    "sentence": "The image depicts an urban street scene adorned with a vibrant display of hanging umbrellas.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149440.jpg",
+    "sentence": "The umbrellas are suspended from above, creating a canopy that spans the width of the street.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149440.jpg",
+    "sentence": "They are arranged in a seemingly random pattern, with varying colors such as red, yellow, blue, orange, and purple, contributing to a lively and cheerful atmosphere.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149440.jpg",
+    "sentence": "The umbrellas are of different sizes and shapes, some appearing larger and more prominent than others, which adds depth and visual interest to the composition.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000149440.jpg",
+    "sentence": "The street itself is flanked by buildings on both sides, suggesting a narrow alleyway or a pedestrian-friendly area.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149440.jpg",
+    "sentence": "The architecture appears to be traditional, with visible windows and balconies, indicating a historical or culturally significant location.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149440.jpg",
+    "sentence": "The lighting in the image is bright, likely due to natural daylight, which enhances the vividness of the umbrella colors.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000149440.jpg",
+    "sentence": "The shadows cast by the umbrellas on the buildings suggest that the sun is positioned at a high angle, possibly midday.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000556345.jpg",
+    "sentence": "The image depicts a bustling street scene in Golden, Colorado, as indicated by the prominent archway sign that reads \"Howdy Folks!",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000556345.jpg",
+    "sentence": "Welcome to Golden Where The West Lives.\"",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000556345.jpg",
+    "sentence": "The sign is brown with yellow lettering and is mounted on a structure spanning the width of the street.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000556345.jpg",
+    "sentence": "Below the main text, smaller signs advertise \"Golden First Fridays\" and \"Shop Late,\" suggesting a vibrant community atmosphere.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000556345.jpg",
+    "sentence": "The street below is lined with various vehicles, including cars and a bus, indicating active traffic flow.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000556345.jpg",
+    "sentence": "The vehicles appear stationary or moving slowly, possibly due to congestion or pedestrian activity not visible in the frame.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000556345.jpg",
+    "sentence": "The architecture surrounding the street features a mix of commercial buildings, some with visible signage, contributing to the urban environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000556345.jpg",
+    "sentence": "In the background, there are trees with autumnal foliage, hinting at the season being fall.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000556345.jpg",
+    "sentence": "Beyond the trees, a mountain range is visible under a clear blue sky, adding a natural backdrop to the urban setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000064842.jpg",
+    "sentence": "The image depicts an individual standing outdoors in a grassy field under a clear blue sky.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000064842.jpg",
+    "sentence": "The person is wearing a vibrant red cardigan with white stitching along the edges and buttons down the front.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000064842.jpg",
+    "sentence": "Underneath, they appear to be wearing a green top.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000064842.jpg",
+    "sentence": "The individual has shoulder-length dark hair that falls slightly over their shoulders.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000064842.jpg",
+    "sentence": "They are holding a small object, possibly a phone or a camera, in their hands, which are positioned close together in front of them.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000064842.jpg",
+    "sentence": "The background features a vast expanse of green grass stretching into the distance, with a line of trees visible on the horizon.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000064842.jpg",
+    "sentence": "The overall atmosphere suggests a calm and serene outdoor setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000064842.jpg",
+    "sentence": "The individual's expression appears neutral, and there is no discernible emotion conveyed through their facial features.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000064842.jpg",
+    "sentence": "The lighting indicates it might be daytime, with natural sunlight illuminating the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000249272.jpg",
+    "sentence": "The image depicts a plated meal consisting of a portion of grilled meat and steamed broccoli.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000249272.jpg",
+    "sentence": "The meat appears to be sliced into pieces and is coated with a glossy, dark sauce, suggesting it may have been basted or marinated prior to cooking.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000249272.jpg",
+    "sentence": "The broccoli florets are bright green and appear to be lightly seasoned, possibly with a sprinkle of grated cheese on top, which adds a contrasting texture and color to the dish.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000249272.jpg",
+    "sentence": "The presentation is simple yet appetizing, with the vibrant green of the broccoli providing a visual contrast to the rich brown tones of the meat.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000249272.jpg",
+    "sentence": "The plate itself is black, which enhances the colors of the food and creates a clean, modern aesthetic.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000249272.jpg",
+    "sentence": "The background is a neutral brown, ensuring that the focus remains on the meal without any distractions.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000249272.jpg",
+    "sentence": "There are no visible actions or emotions within the image, as it is a still-life photograph of a prepared dish.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000249272.jpg",
+    "sentence": "However, the arrangement and presentation suggest an intention to evoke feelings of satisfaction and enjoyment associated with a well-prepared meal.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179218.jpg",
+    "sentence": "The image depicts a vintage steam locomotive, prominently labeled \"Duke of Edinburgh,\" stationed on railway tracks.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179218.jpg",
+    "sentence": "The locomotive is painted in a dark green color with yellow accents along its body, giving it a classic and distinguished appearance.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179218.jpg",
+    "sentence": "Steam is visibly emanating from the top of the engine, suggesting that it may be operational or recently used.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000179218.jpg",
+    "sentence": "In the background, there is a two-story building with a white facade and a blue roof, which appears to be part of a station or a historical site.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179218.jpg",
+    "sentence": "The building has a balcony on the upper level, adding to its architectural charm.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179218.jpg",
+    "sentence": "A palm tree stands tall behind the locomotive, indicating a warm climate, possibly a coastal or tropical region.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179218.jpg",
+    "sentence": "A person is standing near the right side of the image, dressed casually and holding what seems to be a camera or a similar device, likely capturing the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000179218.jpg",
+    "sentence": "This individual appears to be observing the locomotive, perhaps appreciating its historical significance or documenting the moment for personal or professional purposes.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000206107.jpg",
+    "sentence": "The image depicts a young child peacefully sleeping in a crib.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000206107.jpg",
+    "sentence": "The child is dressed in light blue pajamas adorned with cartoon characters, paired with red socks featuring a pumpkin design, suggesting a Halloween theme.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000206107.jpg",
+    "sentence": "The child's posture is relaxed, with arms slightly raised and legs bent at the knees.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000206107.jpg",
+    "sentence": "The crib is lined with a white blanket that has a pattern of small brown dots.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000206107.jpg",
+    "sentence": "Surrounding the child are several plush toys: a gray elephant, a brown monkey, and a green dinosaur with red heart-shaped spots on its body.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000206107.jpg",
+    "sentence": "These toys appear to be placed around the child for comfort and companionship during sleep.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000206107.jpg",
+    "sentence": "The overall scene conveys a sense of tranquility and care, as the child seems to be in a safe and cozy environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000206107.jpg",
+    "sentence": "The presence of the stuffed animals adds an element of warmth and security, indicating that the child is likely accustomed to these items as part of their bedtime routine.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000206107.jpg",
+    "sentence": "The image captures a moment of rest and innocence.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000312961.jpg",
+    "sentence": "The image captures an outdoor recreational scene at a lakeside location during what appears to be late afternoon or early evening, as suggested by the soft lighting and long shadows.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000312961.jpg",
+    "sentence": "The foreground features a body of water with gentle ripples, reflecting the light from the sky.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000312961.jpg",
+    "sentence": "A person is engaged in a waterskiing activity, performing a jump off a ramp that is attached to a boat.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000312961.jpg",
+    "sentence": "The skier is airborne, with their skis angled upwards, indicating the peak of the jump.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000312961.jpg",
+    "sentence": "The individual is wearing a dark-colored life vest for safety.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000312961.jpg",
+    "sentence": "In the background, there is a shoreline lined with dense greenery, consisting primarily of coniferous trees, which suggests a forested area.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000312961.jpg",
+    "sentence": "The trees are lush and appear to be in full foliage, indicating it might be summer or early autumn.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000312961.jpg",
+    "sentence": "There are a few structures visible on the far shore, possibly houses or cabins, nestled among the trees.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000533250.jpg",
+    "sentence": "The image depicts a clock tower, captured in black and white, which lends it a timeless and historical ambiance.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000533250.jpg",
+    "sentence": "The structure is constructed of brick, with a prominent clock face at its apex.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000533250.jpg",
+    "sentence": "The clock face is adorned with Roman numerals and the year \"1899\" is inscribed below the clock hands, indicating the year of construction or dedication.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000533250.jpg",
+    "sentence": "Below the clock, there is an arched plaque that bears an inscription, though the text is not fully legible due to the resolution of the image.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000533250.jpg",
+    "sentence": "The plaque appears to commemorate the presentation of the clock tower by W.P.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000533250.jpg",
+    "sentence": "Cross Esq., as suggested by the visible text.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000533250.jpg",
+    "sentence": "The architectural style of the tower suggests a traditional design, possibly Victorian, given the ornate detailing and the use of brickwork.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000533250.jpg",
+    "sentence": "The sky in the background is clear, suggesting a sunny day, and the shadows cast by the structure indicate that the photo was taken during daylight hours.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000258191.jpg",
+    "sentence": "The image depicts a serene outdoor scene featuring an ornate park bench as the focal point.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000258191.jpg",
+    "sentence": "The bench is constructed with wooden slats for seating and backrest, exhibiting signs of weathering that suggest it has been exposed to the elements for some time.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000258191.jpg",
+    "sentence": "The armrests and legs of the bench are made from intricately designed cast iron, painted black, which contrasts with the natural wood tones.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000258191.jpg",
+    "sentence": "The craftsmanship of the ironwork includes detailed scrollwork and floral motifs, adding an element of elegance to the otherwise rustic appearance.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000258191.jpg",
+    "sentence": "The bench is situated on a paved pathway, which appears to be part of a garden or park setting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000258191.jpg",
+    "sentence": "Surrounding the bench is lush greenery, including various plants and shrubs.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000258191.jpg",
+    "sentence": "Notably, there are vibrant purple-leaved bushes that stand out against the more muted tones of the other foliage.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000258191.jpg",
+    "sentence": "In the background, a section of a brick wall is visible, partially covered by climbing vines, contributing to the overall sense of age and history in the environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000104565.jpg",
+    "sentence": "The image depicts a horse standing in an outdoor setting, likely within a rural or semi-rural environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000104565.jpg",
+    "sentence": "The horse is a chestnut color with a thick mane and tail, both of which appear well-groomed.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000104565.jpg",
+    "sentence": "Its posture suggests it is calm and stationary, possibly grazing or simply resting.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000104565.jpg",
+    "sentence": "The background features a structure that appears to be a traditional oven or kiln, constructed from what looks like adobe or clay bricks.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000104565.jpg",
+    "sentence": "The structure has a rounded top and an opening at the front, which is partially visible.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000104565.jpg",
+    "sentence": "The surrounding area includes some natural elements such as palm fronds and other vegetation, indicating a tropical or subtropical climate.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000104565.jpg",
+    "sentence": "There is also a wooden ladder leaning against the structure, suggesting human activity in this area.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000104565.jpg",
+    "sentence": "The overall scene conveys a sense of tranquility and simplicity, typical of a countryside setting where animals and traditional structures coexist harmoniously.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000104565.jpg",
+    "sentence": "The horse's presence adds a touch of life and movement to the otherwise static environment.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000255770.jpg",
+    "sentence": "The image depicts a compact kitchen with a functional layout.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000255770.jpg",
+    "sentence": "The space is well-lit by natural light streaming through two windows, one of which has horizontal blinds partially drawn.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000255770.jpg",
+    "sentence": "The left window has a small shelf holding various containers, possibly for storage or cooking ingredients.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000255770.jpg",
+    "sentence": "Below this window, there is a radiator with a green and white checkered towel draped over it.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000255770.jpg",
+    "sentence": "On the right side of the image, a wooden shelving unit stands against the wall.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000255770.jpg",
+    "sentence": "It holds an assortment of items, including a carton of eggs, jars, and other kitchen supplies.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000255770.jpg",
+    "sentence": "The shelves appear to be organized but slightly cluttered, suggesting regular use.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000255770.jpg",
+    "sentence": "In the foreground, a stove with four burners is visible.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000255770.jpg",
+    "sentence": "A pot sits on one burner, containing what appears to be food being cooked.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000255770.jpg",
+    "sentence": "Chopsticks rest on top of the pot, indicating that someone might have been actively cooking at the time the photo was taken.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000263710.jpg",
+    "sentence": "The image depicts a close-up view of a freshly prepared dish that appears to be a type of stuffed flatbread or pizza.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000263710.jpg",
+    "sentence": "The flatbread is cut into two triangular sections, revealing its filling.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000263710.jpg",
+    "sentence": "The filling consists of melted cheese, which has a golden-yellow hue, suggesting it might be cheddar or a similar variety.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000263710.jpg",
+    "sentence": "Interspersed within the cheese are visible pieces of green bell peppers and red bell peppers, adding color contrast and likely a sweet and slightly tangy flavor profile.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000263710.jpg",
+    "sentence": "Additionally, there appear to be small chunks of what could be jalapeños or another type of green pepper, contributing a potential spicy element to the dish.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000263710.jpg",
+    "sentence": "The flatbread itself looks soft and pliable, with a pale beige color indicating it may have been lightly toasted or baked.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000263710.jpg",
+    "sentence": "The surface of the flatbread shows some browning, particularly around the edges where it has been cooked more intensely.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000134697.jpg",
+    "sentence": "The image is a black-and-white photograph capturing a solitary figure on a beach.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000134697.jpg",
+    "sentence": "The individual, silhouetted against the light, is walking along the shoreline with a surfboard under their arm.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000134697.jpg",
+    "sentence": "The surfboard is positioned horizontally across the person's body, suggesting they have just finished surfing or are heading towards the water to do so.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000134697.jpg",
+    "sentence": "The person appears to be wearing a wetsuit, which is typical attire for surfing activities.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000134697.jpg",
+    "sentence": "The beach is wet, reflecting the person and the surfboard, creating a mirror-like effect that enhances the monochromatic aesthetic of the photograph.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000134697.jpg",
+    "sentence": "The waves in the background are in motion, with white foam cresting at the top, indicating the dynamic nature of the ocean.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000134697.jpg",
+    "sentence": "The sand is dark and textured, contrasting with the lighter tones of the water and the reflection.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000134697.jpg",
+    "sentence": "The overall mood of the image is serene and contemplative.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000134697.jpg",
+    "sentence": "The lone figure against the vastness of the sea evokes a sense of solitude and introspection.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000317981.jpg",
+    "sentence": "The image depicts a simple yet appetizing meal setup on a wooden table.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000317981.jpg",
+    "sentence": "At the center of the composition is a white plate holding two slices of pepperoni pizza.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000317981.jpg",
+    "sentence": "The pizza appears freshly baked, with a golden-brown crust and melted cheese that has slightly browned in some areas, indicating it was cooked to perfection.",
+    "is_valid": false
+  },
+  {
+    "image": "./images/train2017/000000317981.jpg",
+    "sentence": "The pepperoni slices are evenly distributed across both pieces, adding a vibrant red color contrast against the golden hues of the crust and cheese.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000317981.jpg",
+    "sentence": "To the left of the plate, there is a white ceramic mug containing a dark liquid, presumably coffee or tea, given its color and the context of the meal.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000317981.jpg",
+    "sentence": "The mug's handle is positioned towards the viewer, suggesting readiness for use.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000317981.jpg",
+    "sentence": "The wooden table beneath these items has a warm, natural finish, enhancing the overall aesthetic of the scene.",
+    "is_valid": true
+  },
+  {
+    "image": "./images/train2017/000000317981.jpg",
+    "sentence": "The lighting is soft and even, casting gentle shadows that add depth to the image without overpowering the details of the food and drink.",
+    "is_valid": true
+  }
+]

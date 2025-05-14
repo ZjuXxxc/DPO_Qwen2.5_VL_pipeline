@@ -1,0 +1,112 @@
+[
+    {
+        "image": "./images/train2017/000000143420.jpg",
+        "original_sentence": "The image depicts a barbecue scene featuring two steaks being grilled over an open flame, accompanied by two pieces of food wrapped in aluminum foil, likely for indirect cooking or to retain heat.",
+        "variants": [
+            "The image shows two steaks grilling on a barbecue, alongside aluminum-wrapped food and slices of pizza.",
+            "The image shows a grill with two steaks grilling over flames, two foil-wrapped items, and two slices of pizza placed on the grate below.",
+            "The image shows a barbecue setup with two steaks and two foil-wrapped items cooking on a grill.",
+            "The image shows a barbecue with two grilled steaks, two items covered in foil, and two slices of pizza on a grill.",
+            "The image shows two steaks grilling over flames, with two foil-wrapped items and slices of pizza on a barbecue grill."
+        ]
+    },
+    {
+        "image": "./images/train2017/000000143420.jpg",
+        "original_sentence": "Additionally, there are two slices of pizza placed on the grill, possibly for reheating or toasting.",
+        "variants": [
+            "The image shows grilled steaks and foil-wrapped food items cooking on a barbecue grill, with two slices of pizza added for toasting or reheating nearby.",
+            "The image shows a grill with steaks being cooked alongside foil-wrapped items and two slices of pizza, likely for reheating or toasting.",
+            "The image shows steaks cooking on a grill alongside two slices of pizza wrapped in foil.",
+            "The image shows steaks and foil-wrapped food cooking on a grill, accompanied by two slices of pizza placed below them, possibly for reheating or toasting.",
+            "The image shows grilled steaks and foil-wrapped items cooking alongside two slices of pizza on a grill."
+        ]
+    },
+    {
+        "image": "./images/train2017/000000143420.jpg",
+        "original_sentence": "There is no indication of any emotional state as the image focuses solely on the food and cooking process.",
+        "variants": [
+            "The image captures two steaks being grilled over an open flame, alongside two foil-wrapped items and slices of pizza on a round grill.",
+            "The image shows two grilled steaks, two foil-wrapped items, and slices of pizza being cooked on a grill.",
+            "The image shows steaks and slices of pizza being grilled over an open flame, with aluminum foil-wrapped items nearby.",
+            "The image shows a barbecue grill with grilled steaks, foil-wrapped items, and slices of pizza being cooked over an open flame.",
+            "The image shows grilled steaks, wrapped food, and slices of pizza being cooked over an open flame on a barbecue grill."
+        ]
+    },
+    {
+        "image": "./images/train2017/000000406395.jpg",
+        "original_sentence": "There are no other objects or actions present in the image, focusing solely on the cat and its immediate surroundings.",
+        "variants": [
+            "The image shows a relaxed cat wearing a striped tie, lying comfortably on a beige surface.",
+            "A relaxed tabby cat lounges comfortably on a beige blanket, wearing a striped tie.",
+            "The image shows a cat lying down, wearing a small tie, with a neutral expression and resting on a beige blanket.",
+            "The image shows a cat lounging on a bed, wearing a striped tie, with a relaxed and content expression.",
+            "A tabby cat lounges comfortably, wearing a tie, against a beige blanket."
+        ]
+    },
+    {
+        "image": "./images/train2017/000000143420.jpg",
+        "original_sentence": "The overall setting suggests a casual outdoor cooking environment, possibly during a barbecue gathering.",
+        "variants": [
+            "The image shows food being cooked on an outdoor grill, including steaks and foil-wrapped items, with two slices of pizza also on the grate.",
+            "Grilled steaks and pizza slices are cooking on an open flame grill with foil-wrapped items nearby.",
+            "The image shows steaks and foil-wrapped items being cooked on an outdoor grill, along with two slices of pizza on the side, suggesting a casual barbecue setting.",
+            "The image shows food being cooked on an open grill, including grilled meat and wrapped items, alongside slices of pizza, suggesting a casual outdoor cooking session, likely at a barbecue.",
+            "The image shows food being grilled on an outdoor barbecue, including steaks, foil-wrapped items, and pizza slices."
+        ]
+    },
+    {
+        "image": "./images/train2017/000000065612.jpg",
+        "original_sentence": "The stop sign is red with white lettering that reads \"STOP.\"",
+        "variants": [
+            "A red stop sign with white letters reading \"STOP\" hangs above a street intersection in front of a multi-story building.",
+            "A red stop sign with white letters reading \"STOP\" is mounted on a traffic signal pole in front of a multi-story brick building.",
+            "A red stop sign with white lettering reading \"STOP\" hangs beneath a traffic light against a backdrop of a brick building.",
+            "A red stop sign with white letters reading \"STOP\" is mounted on a pole in front of a multi-story brick building.",
+            "A red stop sign with white text reading \"STOP\" hangs below a traffic light at an intersection in front of a multi-story brick building."
+        ]
+    },
+    {
+        "image": "./images/train2017/000000367452.jpg",
+        "original_sentence": "The surrounding area includes a metal railing and some greenery, which appears to be part of a garden or landscaped area adjacent to the tower.",
+        "variants": [
+            "\"The image showcases a clock tower under a clear blue sky, with metal railings and greenery nearby.\"",
+            "The clock tower stands tall against a clear blue sky, surrounded by a metal railing and lush greenery.",
+            "The image shows a clock tower against a clear blue sky, with metal railings and greenery below, indicating it is situated near a landscaped area.",
+            "The clock tower stands against a clear blue sky, with a metal railing and greenery at its base.",
+            "\"The image features a clock tower with a metal railing and greenery below, suggesting a landscaped setting nearby.\""
+        ]
+    },
+    {
+        "image": "./images/train2017/000000071284.jpg",
+        "original_sentence": "The architecture suggests a modern cityscape with a mix of residential and commercial buildings.",
+        "variants": [
+            "The image shows a bustling urban scene with pedestrians, horses, and signage indicating a Chinatown market setting, surrounded by modern buildings under a cloudy sky.",
+            "The image captures a bustling street scene with pedestrians, vehicles, and horses in front of a Chinatown market backdrop, showcasing a blend of urban activity and cultural elements.",
+            "\"Horses are gathered near a cobblestone street with modern urban buildings, including a Chinatown Market sign.\"",
+            "The image depicts a bustling urban scene with horses being walked on a cobblestone street, alongside modern buildings and advertisements, showcasing a blend of traditional and contemporary elements in a city setting.",
+            "The scene captures a busy urban street featuring a mix of vehicles, pedestrians, and animals, with a modern Chinatown Market sign in the background, showcasing a blend of traditional and contemporary city life."
+        ]
+    },
+    {
+        "image": "./images/train2017/000000363844.jpg",
+        "original_sentence": "The environment is densely packed with an array of soft toys, including teddy bears, dolls, and other plush figures, predominantly in pastel hues such as pink, yellow, blue, and white.",
+        "variants": [
+            "\"A vibrant market stall displays an abundance of soft toys, featuring teddy bears, dolls, and plush figures in soft pastel tones.\"",
+            "The image shows a bustling market filled with colorful soft toys like teddy bears and dolls in pastel colors.",
+            "The image showcases a vibrant market stall brimming with colorful soft toys, featuring teddy bears, dolls, and other plush items in soft pastel tones.",
+            "The image showcases a vibrant and densely packed display of colorful stuffed toys and dolls at what appears to be a market stall.",
+            "The image depicts a bustling market scene filled with a colorful assortment of stuffed toys, predominantly in soft pastel tones."
+        ]
+    },
+    {
+        "image": "./images/train2017/000000089978.jpg",
+        "original_sentence": "The image depicts a domestic cat lying on a polished wooden floor, surrounded by several green apples.",
+        "variants": [
+            "A tortoiseshell cat lounges on a hardwood floor, encircled by an arrangement of bright green apples.",
+            "A domestic cat is lying on a polished wooden floor among scattered green apples.",
+            "A tortoiseshell cat is lounging on a wooden floor, encircled by multiple bright green apples.",
+            "A tortoiseshell cat rests on a wooden floor among a cluster of green apples.",
+            "A tortoiseshell cat lounges on a polished wooden floor amidst a cluster of bright green apples."
+        ]
+    }
+]
