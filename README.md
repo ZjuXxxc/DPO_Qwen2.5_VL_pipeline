@@ -17,7 +17,7 @@ We demonstrate the effectiveness of this pipeline on the **COCO2017** dataset, a
 4_validate_sentences.py          # Qwen2.5-VL-3B validates and ranks the variants
 5_build_dpo_dataset.py           # Construct DPO preference pairs
 6_train_dpo.py                   # DPO training using LoRA + DeepSpeed
-
+```
 ## 🧪 Evaluation Results
 
 | Metric                     | Before DPO | After DPO | Δ Improvement |
